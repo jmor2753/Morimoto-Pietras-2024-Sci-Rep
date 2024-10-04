@@ -1,0 +1,781 @@
+,X,aa_letter,aa_full,mean_aa_freq,se_aa_freq,aa_total_count,relativefreq_aa,species,family,order,class,phylum,kingdom,superkingdom
+1,1,A,Alanine,42.8032242,0.302615406,515094,0.091855852,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+2,2,C,Cysteine,5.627472162,0.049574736,67721,0.012076573,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+3,3,D,Aspartic Acid,26.4998338,0.211248916,318899,0.056868726,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+4,4,E,Glutamic Acid,28.06706,0.233385158,337759,0.060231998,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+5,5,F,Phenylalanine,16.76491607,0.125433099,201749,0.035977562,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+6,6,G,Glycine,31.32399867,0.212207307,376953,0.067221399,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+7,7,H,Histidine,11.78045538,0.094882664,141766,0.025280894,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+8,8,I,Isoleucine,21.21647,0.159905102,255319,0.045530611,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+9,9,K,Lysine,22.97390726,0.181884745,276468,0.049302076,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+10,10,L,Leucine,40.46036231,0.309097289,486900,0.086828063,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+11,11,M,Methionine,10.02085757,0.076548731,120591,0.021504792,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+12,12,N,Asparagine,16.90227688,0.130068682,203402,0.036272339,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+13,13,P,Proline,28.77738075,0.237347131,346307,0.061756349,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+14,14,Q,Glutamine,19.55276716,0.171951698,235298,0.041960299,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+15,15,R,Arginine,28.53298986,0.223762264,343366,0.061231885,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+16,16,S,Serine,37.88283198,0.299040902,455882,0.081296675,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+17,17,T,Threonine,28.85358152,0.209441333,347224,0.061919876,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+18,18,V,Valine,28.33496759,0.202778152,340983,0.060806929,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+19,19,W,Tryptophan,6.696360312,0.052964215,80584,0.01437041,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+20,20,Y,Tyrosine,12.91083596,0.09554332,155369,0.027706694,Ascochyta rabiei ,Didymellaceae,Pleosporales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+21,1,A,Alanine,37.98883994,0.297074175,388056,0.082307344,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+22,2,C,Cysteine,5.522662751,0.054265819,56414,0.011965506,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+23,3,D,Aspartic Acid,26.34929026,0.226682256,269158,0.057088874,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+24,4,E,Glutamic Acid,29.49241312,0.269229948,301265,0.063898824,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+25,5,F,Phenylalanine,17.07978463,0.141386781,174470,0.037005387,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+26,6,G,Glycine,31.30024474,0.236375884,319732,0.067815707,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+27,7,H,Histidine,11.24072442,0.096258451,114824,0.024354368,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+28,8,I,Isoleucine,22.44424865,0.182398003,229268,0.048628137,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+29,9,K,Lysine,22.06343612,0.19463575,225378,0.047803061,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+30,10,L,Leucine,40.66686246,0.341276736,415412,0.088109599,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+31,11,M,Methionine,10.11943221,0.083261112,103370,0.021924955,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+32,12,N,Asparagine,17.87694567,0.148916437,182613,0.038732531,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+33,13,P,Proline,28.32511013,0.258584417,289341,0.061369723,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+34,14,Q,Glutamine,19.54478708,0.181652662,199650,0.042346108,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+35,15,R,Arginine,28.7052374,0.247628006,293224,0.062193314,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+36,16,S,Serine,38.16250612,0.337675266,389830,0.082683613,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+37,17,T,Threonine,27.18482624,0.21339149,277693,0.058899162,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+38,18,V,Valine,28.00372002,0.222420753,286058,0.060673393,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+39,19,W,Tryptophan,6.51649535,0.058774198,66566,0.014118763,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+40,20,Y,Tyrosine,12.96103769,0.104078775,132397,0.028081631,Aspergillus chevalieri,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+41,1,A,Alanine,38.90424185,0.286682358,491594,0.084173884,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+42,2,C,Cysteine,6.093383982,0.054050509,76996,0.01318375,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+43,3,D,Aspartic Acid,25.97119342,0.205327181,328172,0.056191719,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+44,4,E,Glutamic Acid,28.35857866,0.24011703,358339,0.061357106,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+45,5,F,Phenylalanine,17.16745806,0.12847212,216928,0.037143806,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+46,6,G,Glycine,31.16991136,0.214528121,393863,0.067439754,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+47,7,H,Histidine,11.39221273,0.090280436,143952,0.024648387,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+48,8,I,Isoleucine,22.90155112,0.171927492,289384,0.049550188,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+49,9,K,Lysine,20.4784742,0.166952527,258766,0.044307577,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+50,10,L,Leucine,42.29313074,0.324564947,534416,0.091506142,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+51,11,M,Methionine,10.19555239,0.075469526,128831,0.022059272,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+52,12,N,Asparagine,16.62187401,0.126098658,210034,0.035963371,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+53,13,P,Proline,27.8529598,0.220712018,351950,0.060263141,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+54,14,Q,Glutamine,18.6843938,0.161273062,236096,0.040425874,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+55,15,R,Arginine,28.38516936,0.220922933,358675,0.061414638,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+56,16,S,Serine,38.52540361,0.306665259,486807,0.083354223,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+57,17,T,Threonine,27.9798987,0.201635167,353554,0.060537788,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+58,18,V,Valine,28.78600823,0.212908361,363740,0.0622819,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+59,19,W,Tryptophan,6.93178221,0.055460104,87590,0.014997723,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+60,20,Y,Tyrosine,13.49580563,0.097683372,170533,0.029199756,Aspergillus luchuensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+61,1,A,Alanine,40.15148173,0.261805395,546020,0.084630449,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+62,2,C,Cysteine,6.198323406,0.052763063,84291,0.013064696,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+63,3,D,Aspartic Acid,27.0101478,0.196680838,367311,0.056931422,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+64,4,E,Glutamic Acid,28.57349805,0.217649729,388571,0.060226618,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+65,5,F,Phenylalanine,18.18207221,0.123439849,247258,0.03832379,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+66,6,G,Glycine,33.44142952,0.207123926,454770,0.070487142,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+67,7,H,Histidine,11.34892271,0.084320618,154334,0.023921021,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+68,8,I,Isoleucine,23.9651445,0.163502863,325902,0.050513228,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+69,9,K,Lysine,20.96080594,0.1556447,285046,0.044180746,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+70,10,L,Leucine,43.28524156,0.30710897,588636,0.091235722,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+71,11,M,Methionine,10.0116185,0.069739637,136148,0.021102279,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+72,12,N,Asparagine,17.43628208,0.120820841,237116,0.036751829,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+73,13,P,Proline,28.42348702,0.206114881,386531,0.059910428,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+74,14,Q,Glutamine,18.90690492,0.153937664,257115,0.039851577,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+75,15,R,Arginine,28.63063461,0.206186017,389348,0.06034705,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+76,16,S,Serine,39.03117876,0.288327514,530785,0.082269098,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+77,17,T,Threonine,28.22361938,0.18729929,383813,0.059489152,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+78,18,V,Valine,29.64732701,0.198946612,403174,0.062490013,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+79,19,W,Tryptophan,7.247885874,0.053042599,98564,0.015276941,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+80,20,Y,Tyrosine,13.75704096,0.09126197,187082,0.028996802,Aspergillus puulaauensis,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+81,1,A,Alanine,37.98360656,0.27157194,493521,0.076880274,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+82,2,C,Cysteine,5.84861079,0.05122816,75991,0.011837812,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+83,3,D,Aspartic Acid,27.4182252,0.222053456,356245,0.055495537,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+84,4,E,Glutamic Acid,32.3538059,0.280809424,420373,0.065485342,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+85,5,F,Phenylalanine,18.38328331,0.133794219,238854,0.037208469,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+86,6,G,Glycine,33.34580159,0.222761168,433262,0.067493179,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+87,7,H,Histidine,11.29408143,0.088167697,146744,0.022859653,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+88,8,I,Isoleucine,27.01824059,0.197630022,351048,0.054685953,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+89,9,K,Lysine,26.79766028,0.21045557,348182,0.05423949,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+90,10,L,Leucine,41.9448934,0.318826441,544990,0.08489807,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+91,11,M,Methionine,11.05256677,0.080752097,143606,0.022370818,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+92,12,N,Asparagine,21.20772724,0.160613492,275552,0.042925252,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+93,13,P,Proline,28.8841684,0.239913191,375292,0.058462662,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+94,14,Q,Glutamine,19.41229893,0.168783427,252224,0.039291236,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+95,15,R,Arginine,27.93765874,0.223202186,362994,0.056546891,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+96,16,S,Serine,43.93519587,0.351987494,570850,0.088926518,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+97,17,T,Threonine,30.33710459,0.221682186,394170,0.061403461,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+98,18,V,Valine,28.19048719,0.20230755,366279,0.057058625,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+99,19,W,Tryptophan,6.819441238,0.052922988,88605,0.01380281,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+100,20,Y,Tyrosine,13.89694451,0.096378194,180563,0.028127948,Botrytis cinerea,Sclerotiniaceae,Helotiales,Leotiomycetes,Ascomycota,Fungi,Eukaryota
+101,1,A,Alanine,32.05096762,0.36919097,167274,0.061768166,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+102,2,C,Cysteine,6.928147155,0.091459203,36158,0.013351826,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+103,3,D,Aspartic Acid,31.2853037,0.344133215,163278,0.06029259,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+104,4,E,Glutamic Acid,34.20827745,0.398232864,178533,0.065925703,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+105,5,F,Phenylalanine,21.95554704,0.243758425,114586,0.042312416,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+106,6,G,Glycine,29.79919525,0.309351445,155522,0.057428583,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+107,7,H,Histidine,10.7449703,0.125347328,56078,0.020707553,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+108,8,I,Isoleucine,31.48170148,0.335301331,164303,0.060671085,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+109,9,K,Lysine,38.54953056,0.394398505,201190,0.074292104,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+110,10,L,Leucine,47.2853037,0.534142682,246782,0.091127561,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+111,11,M,Methionine,11.7196781,0.125781218,61165,0.022585996,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+112,12,N,Asparagine,26.62157501,0.288949284,138938,0.051304718,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+113,13,P,Proline,21.82525388,0.244232861,113906,0.042061317,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+114,14,Q,Glutamine,19.76834643,0.242082124,103171,0.038097274,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+115,15,R,Arginine,26.55010538,0.306041795,138565,0.051166983,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+116,16,S,Serine,46.86510826,0.550757209,244589,0.090317766,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+117,17,T,Threonine,28.18260203,0.32487776,147085,0.054313107,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+118,18,V,Valine,30.38819697,0.325891545,158596,0.058563698,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+119,19,W,Tryptophan,5.104234528,0.068859417,26639,0.009836808,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+120,20,Y,Tyrosine,17.57731366,0.183842058,91736,0.033874747,Brettanomyces bruxellensis,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+121,1,A,Alanine,31.26323623,0.357210963,147031,0.059854661,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+122,2,C,Cysteine,6.655539018,0.088739187,31301,0.012742284,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+123,3,D,Aspartic Acid,32.68275569,0.368039151,153707,0.062572385,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+124,4,E,Glutamic Acid,35.15479481,0.414923103,165333,0.067305199,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+125,5,F,Phenylalanine,22.25239209,0.257727477,104653,0.042603056,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+126,6,G,Glycine,29.38039549,0.300595044,138176,0.056249891,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+127,7,H,Histidine,10.64405698,0.127259563,50059,0.020378454,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+128,8,I,Isoleucine,31.7095471,0.348828538,149130,0.06070914,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+129,9,K,Lysine,36.42270891,0.378821551,171296,0.069732669,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+130,10,L,Leucine,49.40697427,0.57648908,232361,0.094591541,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+131,11,M,Methionine,12.02764193,0.130994913,56566,0.02302738,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+132,12,N,Asparagine,25.23984691,0.278135895,118703,0.048322652,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+133,13,P,Proline,22.48373379,0.261613004,105741,0.043045968,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+134,14,Q,Glutamine,20.42015735,0.265965193,96036,0.039095172,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+135,15,R,Arginine,25.91749947,0.290208889,121890,0.049620044,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+136,16,S,Serine,46.92706783,0.568949657,220698,0.089843666,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+137,17,T,Threonine,28.68934723,0.32041775,134926,0.054926852,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+138,18,V,Valine,31.86838188,0.341737392,149877,0.061013236,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+139,19,W,Tryptophan,5.152455879,0.072049373,24232,0.009864574,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+140,20,Y,Tyrosine,18.02062513,0.195078476,84751,0.034501176,Brettanomyces nanus,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+141,1,A,Alanine,33.35894517,0.337233536,175835,0.067096974,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+142,2,C,Cysteine,5.585277936,0.075463015,29440,0.011234026,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+143,3,D,Aspartic Acid,29.4742933,0.324344428,155359,0.059283526,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+144,4,E,Glutamic Acid,34.20223866,0.388233907,180280,0.068793144,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+145,5,F,Phenylalanine,21.821476,0.24661804,115021,0.043890926,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+146,6,G,Glycine,27.2124834,0.270717133,143437,0.054734203,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+147,7,H,Histidine,11.58527794,0.131238622,61066,0.023302208,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+148,8,I,Isoleucine,27.82014798,0.318015273,146640,0.055956438,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+149,9,K,Lysine,34.43217606,0.359915525,181492,0.069255631,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+150,10,L,Leucine,46.17833428,0.517671546,243406,0.092881428,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+151,11,M,Methionine,10.20223866,0.114233649,53776,0.020520413,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+152,12,N,Asparagine,24.16182887,0.273344858,127357,0.048598227,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+153,13,P,Proline,23.42401821,0.259427187,123468,0.047114221,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+154,14,Q,Glutamine,19.66382091,0.238231134,103648,0.039551097,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+155,15,R,Arginine,23.70935306,0.256689291,124972,0.047688134,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+156,16,S,Serine,45.37734775,0.526601296,239184,0.091270353,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+157,17,T,Threonine,26.7042307,0.289407252,140758,0.053711922,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+158,18,V,Valine,30.8247012,0.310382513,162477,0.061999687,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+159,19,W,Tryptophan,5.270347183,0.070553419,27780,0.010600585,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+160,20,Y,Tyrosine,16.16657181,0.170680578,85214,0.032516857,Candida auris,Metschnikowiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+161,1,A,Alanine,25.12110312,0.280464178,146657,0.049485497,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+162,2,C,Cysteine,5.4109284,0.070334329,31589,0.010658866,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+163,3,D,Aspartic Acid,29.80918123,0.315082812,174026,0.058720437,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+164,4,E,Glutamic Acid,32.74528948,0.379905356,191167,0.06450421,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+165,5,F,Phenylalanine,22.36330935,0.236165753,130557,0.044052981,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+166,6,G,Glycine,25.58684481,0.260031061,149376,0.050402951,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+167,7,H,Histidine,10.72696129,0.118234893,62624,0.0211308,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+168,8,I,Isoleucine,36.8583419,0.368559165,215179,0.07260642,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+169,9,K,Lysine,37.37358684,0.37549314,218187,0.073621389,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+170,10,L,Leucine,46.61493662,0.490951238,272138,0.091825717,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+171,11,M,Methionine,9.059438164,0.101542885,52889,0.017845984,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+172,12,N,Asparagine,34.78263104,0.380036377,203061,0.068517524,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+173,13,P,Proline,22.58633094,0.248384435,131859,0.044492306,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+174,14,Q,Glutamine,22.8016444,0.26454096,133116,0.044916447,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+175,15,R,Arginine,19.15467626,0.209955685,111825,0.037732367,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+176,16,S,Serine,45.50548133,0.56655523,265661,0.089640226,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+177,17,T,Threonine,31.01712915,0.385940091,181078,0.061099946,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+178,18,V,Valine,27.10346009,0.290950046,158230,0.053390497,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+179,19,W,Tryptophan,4.903905447,0.064484238,28629,0.009660093,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+180,20,Y,Tyrosine,18.12058924,0.18050173,105788,0.035695342,Candida dubliniensis,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+181,1,A,Alanine,40.43591989,0.278626829,738926,0.087407556,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+182,2,C,Cysteine,6.811043012,0.05221485,124465,0.014722965,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+183,3,D,Aspartic Acid,24.54651417,0.185678795,448563,0.053060517,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+184,4,E,Glutamic Acid,25.87764036,0.21086889,472888,0.055937921,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+185,5,F,Phenylalanine,17.68988727,0.121206202,323265,0.038239017,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+186,6,G,Glycine,32.12230491,0.217322314,587003,0.069436585,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+187,7,H,Histidine,11.74822152,0.084735432,214687,0.025395325,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+188,8,I,Isoleucine,22.11836489,0.154790708,404191,0.047811753,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+189,9,K,Lysine,21.18162417,0.159314139,387073,0.045786865,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+190,10,L,Leucine,41.23382948,0.288855484,753507,0.089132343,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+191,11,M,Methionine,9.937944621,0.069806009,181606,0.021482174,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+192,12,N,Asparagine,16.60588815,0.116254933,303456,0.03589581,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+193,13,P,Proline,29.82341031,0.223920445,544993,0.064467222,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+194,14,Q,Glutamine,17.94845135,0.140167793,327990,0.038797937,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+195,15,R,Arginine,29.08925249,0.203950488,531577,0.062880243,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+196,16,S,Serine,39.23694867,0.280646686,717016,0.084815822,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+197,17,T,Threonine,28.69957316,0.22307991,524456,0.0620379,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+198,18,V,Valine,28.11114151,0.198333903,513703,0.060765928,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+199,19,W,Tryptophan,7.097296706,0.051353065,129696,0.01534174,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+200,20,Y,Tyrosine,12.29829266,0.085182609,224739,0.026584376,Colletotrichum lupini,Glomerellaceae,Glomerellales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+201,1,A,Alanine,51.45678535,0.455331945,398893,0.102927831,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+202,2,C,Cysteine,5.208849329,0.071811635,40379,0.010419142,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+203,3,D,Aspartic Acid,28.73529412,0.273594102,222756,0.057478552,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+204,4,E,Glutamic Acid,30.20072239,0.302686063,234116,0.060409814,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+205,5,F,Phenylalanine,16.52386481,0.157722456,128093,0.033052309,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+206,6,G,Glycine,36.60281218,0.307957344,283745,0.073215768,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+207,7,H,Histidine,11.7743808,0.112547632,91275,0.023552025,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+208,8,I,Isoleucine,20.60732714,0.193049169,159748,0.041220365,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+209,9,K,Lysine,21.35319917,0.217304074,165530,0.042712316,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+210,10,L,Leucine,44.10216718,0.411925044,341880,0.088216556,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+211,11,M,Methionine,11.19091847,0.102657338,86752,0.022384938,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+212,12,N,Asparagine,15.38648091,0.149193575,119276,0.030777226,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+213,13,P,Proline,36.20988132,0.379144972,280699,0.072429797,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+214,14,Q,Glutamine,17.3495872,0.198007682,134494,0.034703982,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+215,15,R,Arginine,33.14112487,0.320145504,256910,0.066291434,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+216,16,S,Serine,38.77825077,0.408964498,300609,0.077567248,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+217,17,T,Threonine,29.18679051,0.26718981,226256,0.058381669,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+218,18,V,Valine,32.97200722,0.287869726,255599,0.065953152,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+219,19,W,Tryptophan,7.119195046,0.069840246,55188,0.014240363,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+220,20,Y,Tyrosine,12.03108875,0.11061888,93265,0.024065512,Cutaneotrichosporon cavernicola,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Fungi,Eukaryota
+221,1,A,Alanine,38.58091635,0.386265788,183568,0.078722652,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+222,2,C,Cysteine,6.655947877,0.089715304,31669,0.013581167,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+223,3,D,Aspartic Acid,27.70870113,0.336014602,131838,0.056538378,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+224,4,E,Glutamic Acid,32.23959647,0.394442429,153396,0.06578347,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+225,5,F,Phenylalanine,19.30054645,0.246375511,91832,0.039381911,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+226,6,G,Glycine,29.17065994,0.300804125,138794,0.059521441,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+227,7,H,Histidine,11.70407734,0.140331089,55688,0.023881652,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+228,8,I,Isoleucine,24.69251786,0.338096887,117487,0.05038399,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+229,9,K,Lysine,27.74379992,0.36144023,132005,0.056609996,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+230,10,L,Leucine,49.14922236,0.585734835,233852,0.100286813,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+231,11,M,Methionine,10.71542665,0.125947108,50984,0.021864354,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+232,12,N,Asparagine,20.11937789,0.276256918,95728,0.0410527,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+233,13,P,Proline,23.83648592,0.287608725,113414,0.048637295,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+234,14,Q,Glutamine,20.88167297,0.273027629,99355,0.04260813,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+235,15,R,Arginine,28.5334174,0.286886538,135762,0.058221175,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+236,16,S,Serine,39.04098361,0.516265037,185757,0.079661399,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+237,17,T,Threonine,26.66225305,0.363205895,126859,0.054403147,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+238,18,V,Valine,31.81883144,0.344920276,151394,0.064924917,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+239,19,W,Tryptophan,5.500840689,0.075711292,26173,0.011224222,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+240,20,Y,Tyrosine,16.03131568,0.196226418,76277,0.03271119,Eremothecium gossypii ,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+241,1,A,Alanine,29.65566873,0.339104601,133925,0.060343647,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+242,2,C,Cysteine,6.404782994,0.089657445,28924,0.013032516,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+243,3,D,Aspartic Acid,28.64348981,0.348650986,129354,0.058284055,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+244,4,E,Glutamic Acid,33.05602303,0.416923035,149281,0.067262721,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+245,5,F,Phenylalanine,20.39614703,0.262314199,92109,0.041502281,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+246,6,G,Glycine,25.94331267,0.291393598,117160,0.052789708,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+247,7,H,Histidine,10.82418069,0.134839582,48882,0.022025149,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+248,8,I,Isoleucine,30.23804252,0.380538115,136555,0.061528667,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+249,9,K,Lysine,33.78321523,0.398641642,152565,0.068742419,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+250,10,L,Leucine,48.03122232,0.595314661,216909,0.097734404,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+251,11,M,Methionine,10.70704163,0.127229046,48353,0.021786794,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+252,12,N,Asparagine,25.98649247,0.324368896,117355,0.052877571,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+253,13,P,Proline,21.87998229,0.295581626,98810,0.044521603,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+254,14,Q,Glutamine,19.994907,0.273806329,90297,0.040685834,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+255,15,R,Arginine,23.72298494,0.269124722,107133,0.048271763,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+256,16,S,Serine,42.53122232,0.55527047,192071,0.08654295,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+257,17,T,Threonine,27.36248893,0.340559341,123569,0.055677462,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+258,18,V,Valine,30.14968999,0.342701192,136156,0.061348886,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+259,19,W,Tryptophan,5.208148804,0.07465329,23520,0.010597592,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+260,20,Y,Tyrosine,16.92736935,0.206125331,76444,0.034443978,Eremothecium sinecaudum,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+261,1,A,Alanine,38.41294196,0.267903418,575810,0.090958103,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+262,2,C,Cysteine,5.38185457,0.043291797,80674,0.012743707,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+263,3,D,Aspartic Acid,25.00046698,0.185046535,374757,0.05919867,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+264,4,E,Glutamic Acid,26.24122748,0.198350289,393356,0.06213667,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+265,5,F,Phenylalanine,14.69206137,0.104360829,220234,0.03478937,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+266,6,G,Glycine,29.1353569,0.19507867,436739,0.068989686,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+267,7,H,Histidine,10.60813876,0.079067194,159016,0.025119039,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+268,8,I,Isoleucine,19.43468979,0.135200682,291326,0.046019452,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+269,9,K,Lysine,20.68498999,0.156861021,310068,0.048980041,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+270,10,L,Leucine,36.07911941,0.25903131,540826,0.085431839,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+271,11,M,Methionine,9.609272849,0.066655718,144043,0.022753822,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+272,12,N,Asparagine,15.29319546,0.110548786,229245,0.036212797,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+273,13,P,Proline,25.07071381,0.195185604,375810,0.059365007,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+274,14,Q,Glutamine,18.22368245,0.147604932,273173,0.043151904,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+275,15,R,Arginine,26.045497,0.191957495,390422,0.061673199,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+276,16,S,Serine,33.13002001,0.26407309,496619,0.078448659,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+277,17,T,Threonine,25.99259506,0.19819496,389629,0.061547932,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+278,18,V,Valine,25.33382255,0.177243836,379754,0.059988023,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+279,19,W,Tryptophan,6.232821881,0.045991667,93430,0.014758715,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+280,20,Y,Tyrosine,11.71220814,0.081638476,175566,0.027733368,Fulvia fulva,Mycosphaerellaceae,Mycosphaerellales,Dothideomycetes,Ascomycota,Fungi,Eukaryota
+281,1,A,Alanine,42.83038044,0.288190734,623696,0.086213887,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+282,2,C,Cysteine,6.467861557,0.050471292,94185,0.013019251,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+283,3,D,Aspartic Acid,28.94925148,0.204098368,421559,0.058272363,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+284,4,E,Glutamic Acid,30.90900975,0.246337647,450097,0.062217189,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+285,5,F,Phenylalanine,19.07430298,0.122844375,277760,0.038394938,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+286,6,G,Glycine,34.74357918,0.220505763,505936,0.069935849,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+287,7,H,Histidine,11.70951792,0.083899728,170514,0.023570256,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+288,8,I,Isoleucine,24.72977613,0.165101447,360115,0.049778921,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+289,9,K,Lysine,24.03619008,0.166231421,350015,0.048382792,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+290,10,L,Leucine,44.31678341,0.305395402,645341,0.089205889,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+291,11,M,Methionine,11.06434556,0.074378001,161119,0.02227158,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+292,12,N,Asparagine,17.82062903,0.119400546,259504,0.0358714,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+293,13,P,Proline,29.79240489,0.229395715,433837,0.059969559,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+294,14,Q,Glutamine,19.47919242,0.157403737,283656,0.039209946,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+295,15,R,Arginine,29.50178547,0.212295142,429605,0.059384567,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+296,16,S,Serine,39.2139816,0.282031225,571034,0.078934386,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+297,17,T,Threonine,29.34411482,0.216256716,427309,0.059067189,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+298,18,V,Valine,31.02506524,0.206018243,451787,0.062450799,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+299,19,W,Tryptophan,7.993270155,0.053819113,116398,0.016089768,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+300,20,Y,Tyrosine,13.79068809,0.087992746,200820,0.027759474,Fusarium falciforme,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+301,1,A,Alanine,39.94823326,0.243512856,646682,0.082861897,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+302,2,C,Cysteine,6.578638498,0.051126807,106495,0.013645621,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+303,3,D,Aspartic Acid,27.8792933,0.185477398,451310,0.057828117,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+304,4,E,Glutamic Acid,29.36088461,0.202553916,475294,0.060901281,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+305,5,F,Phenylalanine,18.68884359,0.116311179,302535,0.038764994,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+306,6,G,Glycine,32.67834198,0.190389194,528997,0.067782457,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+307,7,H,Histidine,11.63114653,0.078474629,188285,0.024125694,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+308,8,I,Isoleucine,25.16462812,0.155619727,407365,0.052197272,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+309,9,K,Lysine,24.03076353,0.156529212,389010,0.049845374,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+310,10,L,Leucine,43.17797134,0.281515095,698965,0.089561122,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+311,11,M,Methionine,10.82060786,0.069337267,175164,0.022444449,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+312,12,N,Asparagine,18.35513961,0.115139067,297133,0.038072815,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+313,13,P,Proline,27.97973808,0.190260977,452936,0.058036463,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+314,14,Q,Glutamine,19.17933037,0.138586418,310475,0.039782377,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+315,15,R,Arginine,27.97022486,0.187633006,452782,0.05801673,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+316,16,S,Serine,38.92024957,0.262225928,630041,0.08072962,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+317,17,T,Threonine,28.77050902,0.180429153,465737,0.059676705,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+318,18,V,Valine,29.52588337,0.181067083,477965,0.061243527,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+319,19,W,Tryptophan,7.662466024,0.050125925,124040,0.015893731,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+320,20,Y,Tyrosine,13.78329627,0.083258085,223124,0.028589752,Fusarium oxysporum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+321,1,A,Alanine,27.19742829,0.295875276,137483,0.056015825,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+322,2,C,Cysteine,5.993669634,0.081601225,30298,0.012344562,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+323,3,D,Aspartic Acid,29.39723046,0.327028815,148603,0.060546538,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+324,4,E,Glutamic Acid,32.5165183,0.381270277,164371,0.066971023,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+325,5,F,Phenylalanine,21.28269041,0.253351804,107584,0.04383383,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+326,6,G,Glycine,24.75687438,0.25834379,125146,0.05098926,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+327,7,H,Histidine,10.63184965,0.122723568,53744,0.021897358,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+328,8,I,Isoleucine,30.80257171,0.353418116,155707,0.063440979,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+329,9,K,Lysine,34.32007913,0.373348474,173488,0.070685637,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+330,10,L,Leucine,47.13353116,0.544485419,238260,0.097076224,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+331,11,M,Methionine,10.09910979,0.115996602,51051,0.020800127,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+332,12,N,Asparagine,26.98852621,0.316022372,136427,0.05558557,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+333,13,P,Proline,20.91177052,0.237571472,105709,0.043069884,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+334,14,Q,Glutamine,20.4223541,0.250893125,103235,0.042061882,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+335,15,R,Arginine,21.14599407,0.230005501,106893,0.043552291,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+336,16,S,Serine,42.89871414,0.513610284,216853,0.088354194,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+337,17,T,Threonine,28.33115727,0.336111468,143214,0.058350853,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+338,18,V,Valine,29.15173096,0.305495912,147362,0.060040907,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+339,19,W,Tryptophan,5.287636004,0.071416786,26729,0.010890415,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+340,20,Y,Tyrosine,16.26172107,0.179224023,82203,0.033492642,Kluyveromyces lactis,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+341,1,A,Alanine,28.91900122,0.310281348,142455,0.057614399,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+342,2,C,Cysteine,6.085667885,0.082505616,29978,0.012124281,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+343,3,D,Aspartic Acid,29.64799026,0.33475822,146046,0.05906674,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+344,4,E,Glutamic Acid,34.35140073,0.407540599,169215,0.068437194,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+345,5,F,Phenylalanine,21.59602111,0.254229396,106382,0.04302506,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+346,6,G,Glycine,26.50568413,0.271916701,130567,0.052806424,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+347,7,H,Histidine,10.97563946,0.128314911,54066,0.021866415,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+348,8,I,Isoleucine,31.06597645,0.363154122,153031,0.061891749,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+349,9,K,Lysine,36.03329273,0.394549057,177500,0.071787974,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+350,10,L,Leucine,47.90560292,0.549279419,235983,0.095440796,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+351,11,M,Methionine,10.67783191,0.122189005,52599,0.021273102,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+352,12,N,Asparagine,27.69589931,0.334212602,136430,0.055177652,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+353,13,P,Proline,22.06191636,0.257046912,108677,0.043953248,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+354,14,Q,Glutamine,21.17092976,0.263764976,104288,0.042178164,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+355,15,R,Arginine,21.87494925,0.238191676,107756,0.04358076,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+356,16,S,Serine,44.30186764,0.530406189,218231,0.08826119,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+357,17,T,Threonine,28.44742184,0.332419935,140132,0.056674886,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+358,18,V,Valine,30.2907024,0.313404022,149212,0.060347195,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+359,19,W,Tryptophan,5.423670321,0.073128719,26717,0.010805404,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+360,20,Y,Tyrosine,16.909054,0.187671316,83294,0.033687366,Kluyveromyces marxianus,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+361,1,A,Alanine,32.02104881,0.338903196,176468,0.059566936,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+362,2,C,Cysteine,5.491017964,0.074193606,30261,0.010214628,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+363,3,D,Aspartic Acid,31.70277627,0.354957749,174714,0.058974871,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+364,4,E,Glutamic Acid,36.52077663,0.438625835,201266,0.067937523,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+365,5,F,Phenylalanine,22.29141717,0.246361767,122848,0.041467455,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+366,6,G,Glycine,29.48285248,0.311543801,162480,0.054845273,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+367,7,H,Histidine,12.16766467,0.143456946,67056,0.022634814,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+368,8,I,Isoleucine,32.79259662,0.346355244,180720,0.061002202,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+369,9,K,Lysine,37.64053711,0.391145096,207437,0.07002055,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+370,10,L,Leucine,47.16675739,0.517594161,259936,0.087741636,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+371,11,M,Methionine,9.978951189,0.111625854,54994,0.018563275,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+372,12,N,Asparagine,33.046634,0.383118212,182120,0.061474773,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+373,13,P,Proline,23.50807476,0.270917756,129553,0.043730734,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+374,14,Q,Glutamine,26.15677735,0.345020704,144150,0.048657965,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+375,15,R,Arginine,22.25585193,0.240622439,122652,0.041401295,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+376,16,S,Serine,50.03465796,0.609431331,275741,0.093076628,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+377,17,T,Threonine,32.3269824,0.517655652,178154,0.060136047,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+378,18,V,Valine,30.17383415,0.320611591,166288,0.056130667,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+379,19,W,Tryptophan,4.980765741,0.07137954,27449,0.009265435,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+380,20,Y,Tyrosine,17.82416984,0.185854934,98229,0.033157289,Lodderomyces elongisporus,Debaryomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+381,1,A,Alanine,60.93649686,0.826858101,261966,0.114940824,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+382,2,C,Cysteine,5.603861363,0.087910069,24091,0.010570224,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+383,3,D,Aspartic Acid,30.66317748,0.382493546,131821,0.057838095,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+384,4,E,Glutamic Acid,34.41032798,0.453280826,147930,0.064906118,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+385,5,F,Phenylalanine,16.70458246,0.218046795,71813,0.031508842,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+386,6,G,Glycine,33.80111654,0.396107935,145311,0.063756999,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+387,7,H,Histidine,14.13793906,0.194353556,60779,0.026667538,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+388,8,I,Isoleucine,19.01163061,0.247756962,81731,0.035860488,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+389,9,K,Lysine,21.19981391,0.269225019,91138,0.039987925,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+390,10,L,Leucine,50.86089788,0.693236868,218651,0.095935832,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+391,11,M,Methionine,12.08350779,0.150475912,51947,0.022792389,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+392,12,N,Asparagine,14.56059549,0.191736695,62596,0.02746477,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+393,13,P,Proline,34.83344964,0.490757692,149749,0.065704227,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+394,14,Q,Glutamine,22.14747616,0.304005932,95212,0.041775443,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+395,15,R,Arginine,36.24563852,0.462185172,155820,0.068367953,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+396,16,S,Serine,37.96859735,0.493006565,163227,0.071617866,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+397,17,T,Threonine,29.20795534,0.36343307,125565,0.055093198,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+398,18,V,Valine,35.28425215,0.437068046,151687,0.066554548,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+399,19,W,Tryptophan,6.870900209,0.097189043,29538,0.012960163,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+400,20,Y,Tyrosine,13.62316818,0.172954687,58566,0.025696557,Malassezia japonica,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+401,1,A,Alanine,48.11108587,0.607578139,211785,0.098150761,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+402,2,C,Cysteine,6.575193094,0.099877485,28944,0.01341396,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+403,3,D,Aspartic Acid,28.67083144,0.343117978,126209,0.058490967,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+404,4,E,Glutamic Acid,29.12221717,0.359544563,128196,0.059411832,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+405,5,F,Phenylalanine,15.87664698,0.198078585,69889,0.032389728,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+406,6,G,Glycine,27.91708314,0.313230423,122891,0.056953255,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+407,7,H,Histidine,16.17810086,0.209292896,71216,0.03300472,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+408,8,I,Isoleucine,19.49840981,0.233679424,85832,0.039778436,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+409,9,K,Lysine,18.40527033,0.224505147,81020,0.037548337,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+410,10,L,Leucine,47.55315766,0.613139567,209329,0.097012539,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+411,11,M,Methionine,13.54293503,0.160851429,59616,0.027628754,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+412,12,N,Asparagine,13.27078601,0.17824526,58418,0.027073547,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+413,13,P,Proline,30.79304861,0.393115485,135551,0.062820472,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+414,14,Q,Glutamine,20.84416174,0.260378582,91756,0.042523886,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+415,15,R,Arginine,34.52044525,0.406771215,151959,0.070424683,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+416,16,S,Serine,38.48159927,0.462715016,169396,0.078505778,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+417,17,T,Threonine,27.87891867,0.323297557,122723,0.056875396,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+418,18,V,Valine,32.73648342,0.392534025,144106,0.066785247,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+419,19,W,Tryptophan,7.097910041,0.098715968,31245,0.014480348,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+420,20,Y,Tyrosine,13.10109041,0.155500854,57671,0.026727353,Malassezia restricta,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+421,1,A,Alanine,58.25839011,0.797816785,230878,0.109125335,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+422,2,C,Cysteine,6.466818067,0.102543327,25628,0.012113168,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+423,3,D,Aspartic Acid,30.43956599,0.370907207,120632,0.057017158,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+424,4,E,Glutamic Acid,32.59500379,0.409345087,129174,0.061054566,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+425,5,F,Phenylalanine,18.22785768,0.232424947,72237,0.034143084,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+426,6,G,Glycine,32.57759273,0.369309489,129105,0.061021953,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+427,7,H,Histidine,15.64420893,0.218255877,61998,0.029303583,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+428,8,I,Isoleucine,21.48650013,0.266496516,85151,0.040246933,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+429,9,K,Lysine,21.42291194,0.257325304,84899,0.040127824,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+430,10,L,Leucine,52.13272773,0.710652348,206602,0.097651195,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+431,11,M,Methionine,13.65152662,0.164139113,54101,0.025571037,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+432,12,N,Asparagine,16.17739087,0.201655745,64111,0.0303023,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+433,13,P,Proline,31.71990916,0.421072774,125706,0.059415403,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+434,14,Q,Glutamine,23.09285895,0.312193064,91517,0.043255846,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+435,15,R,Arginine,35.75044158,0.449375381,141679,0.0669651,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+436,16,S,Serine,37.8223568,0.464796455,149890,0.07084606,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+437,17,T,Threonine,30.17108251,0.361164131,119568,0.056514255,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+438,18,V,Valine,35.12263437,0.428750067,139191,0.065789138,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+439,19,W,Tryptophan,6.936664143,0.099235054,27490,0.01299325,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+440,20,Y,Tyrosine,14.17032551,0.178616618,56157,0.026542812,Malassezia vespertilionis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Fungi,Eukaryota
+441,1,A,Alanine,26.85516569,0.287986799,137767,0.05234939,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+442,2,C,Cysteine,6.384990253,0.083428602,32755,0.012446408,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+443,3,D,Aspartic Acid,30.77641326,0.346224375,157883,0.059993168,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+444,4,E,Glutamic Acid,35.17290448,0.412807871,180437,0.068563349,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+445,5,F,Phenylalanine,22.7662768,0.265725042,116791,0.044378825,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+446,6,G,Glycine,26.6417154,0.273315389,136672,0.051933307,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+447,7,H,Histidine,10.96315789,0.123759512,56241,0.021370735,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+448,8,I,Isoleucine,34.4042885,0.395148223,176494,0.067065068,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+449,9,K,Lysine,37.72923977,0.421808742,193551,0.073546472,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+450,10,L,Leucine,48.76588694,0.546384733,250169,0.095060461,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+451,11,M,Methionine,10.92592593,0.120274336,56050,0.021298158,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+452,12,N,Asparagine,31.32670565,0.37849433,160706,0.061065865,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+453,13,P,Proline,21.53664717,0.24010969,110483,0.04198188,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+454,14,Q,Glutamine,19.47797271,0.249451993,99922,0.037968859,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+455,15,R,Arginine,22.2834308,0.235746832,114314,0.043437602,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+456,16,S,Serine,44.99337232,0.562076855,230816,0.087706612,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+457,17,T,Threonine,28.99415205,0.331869088,148740,0.056518965,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+458,18,V,Valine,29.91130604,0.306600781,153445,0.058306795,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+459,19,W,Tryptophan,5.028654971,0.067289594,25797,0.009802472,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+460,20,Y,Tyrosine,18.06042885,0.19857488,92650,0.035205608,Pichia kudriavzevii,Pichiaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+461,1,A,Alanine,31.81000868,0.263580882,403001,0.080860068,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+462,2,C,Cysteine,5.076249112,0.046708096,64311,0.01290367,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+463,3,D,Aspartic Acid,20.90741179,0.183967196,264876,0.053146001,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+464,4,E,Glutamic Acid,22.15936538,0.208948247,280737,0.056328428,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+465,5,F,Phenylalanine,13.91262136,0.120709661,176259,0.035365458,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+466,6,G,Glycine,23.33585918,0.194066099,295642,0.05931904,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+467,7,H,Histidine,11.08256374,0.098891133,140405,0.028171538,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+468,8,I,Isoleucine,19.39845292,0.166467439,245759,0.049310273,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+469,9,K,Lysine,20.47043966,0.175984215,259340,0.052035231,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+470,10,L,Leucine,37.4106875,0.320903787,473956,0.095096822,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+471,11,M,Methionine,7.430973242,0.06198904,94143,0.018889306,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+472,12,N,Asparagine,16.03109953,0.137327213,203098,0.040750564,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+473,13,P,Proline,28.70479122,0.257739429,363661,0.0729667,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+474,14,Q,Glutamine,17.86320941,0.156758476,226309,0.045407731,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+475,15,R,Arginine,22.80400979,0.19600296,288904,0.057967095,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+476,16,S,Serine,37.75436104,0.342500299,478310,0.09597043,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+477,17,T,Threonine,23.13829031,0.188239101,293139,0.058816826,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+478,18,V,Valine,20.53027074,0.175498119,260098,0.05218732,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+479,19,W,Tryptophan,4.618359776,0.045448446,58510,0.011739729,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+480,20,Y,Tyrosine,8.95674481,0.080109689,113473,0.022767771,Puccinia triticina,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Fungi,Eukaryota
+481,1,A,Alanine,47.2659853,0.316718359,559582,0.0979618,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+482,2,C,Cysteine,6.111749303,0.052730437,72357,0.012666994,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+483,3,D,Aspartic Acid,28.92651406,0.219989331,342461,0.059952064,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+484,4,E,Glutamic Acid,27.83706394,0.235494093,329563,0.057694109,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+485,5,F,Phenylalanine,16.97356196,0.128384661,200950,0.035178801,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+486,6,G,Glycine,35.71146212,0.230794777,422788,0.074014306,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+487,7,H,Histidine,11.92026354,0.090724914,141124,0.024705514,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+488,8,I,Isoleucine,20.18793817,0.160679984,239005,0.041840803,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+489,9,K,Lysine,21.23760453,0.175890905,251432,0.044016304,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+490,10,L,Leucine,42.3061914,0.320596223,500863,0.087682308,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+491,11,M,Methionine,10.86645832,0.080812558,128648,0.022521435,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+492,12,N,Asparagine,15.49615677,0.121471956,183459,0.032116783,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+493,13,P,Proline,30.16226033,0.232951694,357091,0.062513228,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+494,14,Q,Glutamine,18.98327561,0.164940458,224743,0.039344062,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+495,15,R,Arginine,32.24469972,0.235407414,381745,0.066829218,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+496,16,S,Serine,38.36827435,0.299086909,454242,0.079520721,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+497,17,T,Threonine,27.71323592,0.201002271,328097,0.057437467,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+498,18,V,Valine,30.78934032,0.218451409,364515,0.063812892,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+499,19,W,Tryptophan,7.069262607,0.055930679,83693,0.014651502,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+500,20,Y,Tyrosine,12.32274685,0.090717326,145889,0.025539687,Purpureocillium takamizusanense,Ophiocordycipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+501,1,A,Alanine,45.34425692,0.324123959,553472,0.084041037,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+502,2,C,Cysteine,6.529329838,0.056855185,79697,0.012101459,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+503,3,D,Aspartic Acid,28.69826315,0.219769836,350291,0.053189355,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+504,4,E,Glutamic Acid,32.20981485,0.261361356,393153,0.059697665,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+505,5,F,Phenylalanine,18.88931673,0.143902771,230563,0.035009456,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+506,6,G,Glycine,35.56668851,0.251294161,434127,0.065919294,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+507,7,H,Histidine,13.90545633,0.113181597,169730,0.02577237,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+508,8,I,Isoleucine,27.02162871,0.203787798,329826,0.050081882,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+509,9,K,Lysine,27.18679338,0.222484502,331842,0.050387998,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+510,10,L,Leucine,48.61060134,0.368011583,593341,0.090094879,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+511,11,M,Methionine,10.71956415,0.080495865,130843,0.019867638,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+512,12,N,Asparagine,20.46427986,0.152021049,249787,0.037928492,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+513,13,P,Proline,36.85548091,0.308114024,449858,0.068307941,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+514,14,Q,Glutamine,21.04096346,0.17071383,256826,0.038997318,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+515,15,R,Arginine,32.01294445,0.263473632,390750,0.059332785,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+516,16,S,Serine,45.05439948,0.360193565,549934,0.083503815,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+517,17,T,Threonine,33.69064395,0.247936802,411228,0.062442233,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+518,18,V,Valine,32.542602,0.238233881,397215,0.060314452,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+519,19,W,Tryptophan,8.358348353,0.067923638,102022,0.015491361,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+520,20,Y,Tyrosine,14.84761593,0.113756423,181230,0.027518569,Rhizoctonia solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Fungi,Eukaryota
+521,1,A,Alanine,26.82505037,0.282040392,159770,0.054849063,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+522,2,C,Cysteine,6.20080591,0.076508172,36932,0.012678761,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+523,3,D,Aspartic Acid,28.58361316,0.321868515,170244,0.058444789,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+524,4,E,Glutamic Acid,31.95315648,0.369667746,190313,0.065334479,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+525,5,F,Phenylalanine,21.70231699,0.242940846,129259,0.044374632,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+526,6,G,Glycine,24.29902619,0.245133624,144725,0.049684112,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+527,7,H,Histidine,10.60846206,0.125742775,63184,0.021691076,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+528,8,I,Isoleucine,32.10980524,0.360965539,191246,0.065654778,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+529,9,K,Lysine,35.91840161,0.387153125,213930,0.073442198,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+530,10,L,Leucine,46.55540631,0.520801485,277284,0.095191635,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+531,11,M,Methionine,10.18250504,0.109963092,60647,0.020820123,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+532,12,N,Asparagine,30.1291135,0.358331546,179449,0.061604866,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+533,13,P,Proline,21.38196776,0.243629514,127351,0.043719616,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+534,14,Q,Glutamine,19.31346541,0.225362556,115031,0.039490158,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+535,15,R,Arginine,21.6851914,0.230110091,129157,0.044339616,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+536,16,S,Serine,43.9677636,0.527076317,261872,0.089900694,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+537,17,T,Threonine,28.87659503,0.345551189,171989,0.059043847,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+538,18,V,Valine,27.1613499,0.278502612,161773,0.055536693,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+539,19,W,Tryptophan,5.088985897,0.065821689,30310,0.010405427,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+540,20,Y,Tyrosine,16.52736736,0.184444797,98437,0.033793436,Saccharomyces cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+541,1,A,Alanine,28.39873646,0.293854421,157329,0.056541912,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+542,2,C,Cysteine,6.367870036,0.079584133,35278,0.012678435,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+543,3,D,Aspartic Acid,29.85505415,0.323586792,165397,0.059441442,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+544,4,E,Glutamic Acid,32.99819495,0.37624232,182810,0.065699438,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+545,5,F,Phenylalanine,22.42310469,0.253038783,124224,0.044644423,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+546,6,G,Glycine,25.65379061,0.250942575,142122,0.051076722,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+547,7,H,Histidine,10.74693141,0.119746351,59538,0.021397151,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+548,8,I,Isoleucine,32.46949458,0.359921258,179881,0.064646795,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+549,9,K,Lysine,36.17382671,0.380031838,200403,0.072022124,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+550,10,L,Leucine,48.09368231,0.533287904,266439,0.095754568,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+551,11,M,Methionine,10.50794224,0.113229952,58214,0.020921323,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+552,12,N,Asparagine,30.15144404,0.350876713,167039,0.060031554,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+553,13,P,Proline,21.61859206,0.235752856,119767,0.043042638,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+554,14,Q,Glutamine,19.85054152,0.22974111,109972,0.039522447,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+555,15,R,Arginine,22.72942238,0.234587207,125921,0.045254302,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+556,16,S,Serine,45.16444043,0.545450672,250211,0.089922444,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+557,17,T,Threonine,28.89079422,0.34243959,160055,0.057521599,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+558,18,V,Valine,28.36768953,0.285540039,157157,0.056480097,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+559,19,W,Tryptophan,5.218953069,0.068066358,28913,0.010390941,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+560,20,Y,Tyrosine,16.57942238,0.178438934,91850,0.033009646,Saccharomyces kudriavzevii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+561,1,A,Alanine,27.1391162,0.284011951,149238,0.053730879,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+562,2,C,Cysteine,6.446626659,0.080273787,35450,0.012763235,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+563,3,D,Aspartic Acid,29.59701764,0.322340675,162754,0.05859711,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+564,4,E,Glutamic Acid,33.18748863,0.376802471,182498,0.065705638,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+565,5,F,Phenylalanine,22.59174395,0.256553402,124232,0.044727848,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+566,6,G,Glycine,25.26786688,0.25049093,138948,0.050026121,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+567,7,H,Histidine,10.85288234,0.121102639,59680,0.021486879,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+568,8,I,Isoleucine,33.3502455,0.367799317,183393,0.066027869,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+569,9,K,Lysine,36.98817967,0.385731759,203398,0.073230366,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+570,10,L,Leucine,48.39443535,0.537965992,266121,0.095812831,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+571,11,M,Methionine,10.52500455,0.112998789,57877,0.020837736,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+572,12,N,Asparagine,31.06728496,0.361216939,170839,0.061507992,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+573,13,P,Proline,21.44953628,0.233515737,117951,0.042466469,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+574,14,Q,Glutamine,19.83742499,0.232101818,109086,0.03927476,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+575,15,R,Arginine,22.36261138,0.232617849,122972,0.044274204,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+576,16,S,Serine,45.76668485,0.560906474,251671,0.090610327,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+577,17,T,Threonine,29.63775232,0.361441453,162978,0.058677758,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+578,18,V,Valine,28.48954355,0.292374403,156664,0.056404498,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+579,19,W,Tryptophan,5.274231678,0.068861507,29003,0.01044209,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+580,20,Y,Tyrosine,16.86779414,0.181477156,92756,0.033395391,Saccharomyces mikatae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+581,1,A,Alanine,28.73715415,0.320850111,145410,0.062885276,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+582,2,C,Cysteine,6.39229249,0.092089181,32345,0.013988201,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+583,3,D,Aspartic Acid,24.64703557,0.300908248,124714,0.053934903,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+584,4,E,Glutamic Acid,30.43972332,0.378199861,154025,0.066610994,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+585,5,F,Phenylalanine,20.99940711,0.269125809,106257,0.045952828,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+586,6,G,Glycine,23.08616601,0.260849107,116816,0.050519265,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+587,7,H,Histidine,10.75731225,0.129857885,54432,0.023540137,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+588,8,I,Isoleucine,26.23932806,0.327052733,132771,0.057419304,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+589,9,K,Lysine,28.5312253,0.328193405,144368,0.062434643,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+590,10,L,Leucine,44.83478261,0.581917368,226864,0.098111582,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+591,11,M,Methionine,9.848814229,0.115309833,49835,0.021552078,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+592,12,N,Asparagine,23.26126482,0.289233007,117702,0.050902432,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+593,13,P,Proline,22.4958498,0.274049534,113829,0.049227481,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+594,14,Q,Glutamine,18.66660079,0.226466871,94453,0.040847967,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+595,15,R,Arginine,23.09031621,0.265762674,116837,0.050528347,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+596,16,S,Serine,42.58280632,0.54153343,215469,0.093183601,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+597,17,T,Threonine,24.38794466,0.286090496,123403,0.053367937,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+598,18,V,Valine,27.24189723,0.315028695,137844,0.059613217,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+599,19,W,Tryptophan,5.136166008,0.075849249,25989,0.011239429,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+600,20,Y,Tyrosine,15.6013834,0.194631091,78943,0.034140378,Schizosaccharomyces osmophilus,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Fungi,Eukaryota
+601,1,A,Alanine,65.8323217,0.633733414,433835,0.10924881,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+602,2,C,Cysteine,5.553262519,0.067786254,36596,0.009215645,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+603,3,D,Aspartic Acid,34.93960546,0.344194634,230252,0.057982314,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+604,4,E,Glutamic Acid,33.45751138,0.3488754,220485,0.055522777,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+605,5,F,Phenylalanine,19.60455235,0.187225281,129194,0.032533776,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+606,6,G,Glycine,42.25675266,0.386195475,278472,0.070125127,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+607,7,H,Histidine,14.73930197,0.151736559,97132,0.024459888,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+608,8,I,Isoleucine,23.65174507,0.222919199,155865,0.039250097,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+609,9,K,Lysine,26.60804249,0.251615827,175347,0.044156076,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+610,10,L,Leucine,52.99893778,0.519745515,349263,0.087951795,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+611,11,M,Methionine,11.26843703,0.111653469,74259,0.018699984,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+612,12,N,Asparagine,19.41836115,0.190044665,127967,0.032224792,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+613,13,P,Proline,36.60955994,0.374502729,241257,0.060753605,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+614,14,Q,Glutamine,26.19317147,0.283398464,172613,0.043467597,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+615,15,R,Arginine,37.82989378,0.393223601,249299,0.06277875,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+616,16,S,Serine,59.74415781,0.634485628,393714,0.099145495,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+617,17,T,Threonine,35.57556904,0.328648629,234443,0.059037696,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+618,18,V,Valine,35.61471927,0.326605438,234701,0.059102666,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+619,19,W,Tryptophan,7.111532625,0.075275093,46865,0.011801596,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+620,20,Y,Tyrosine,13.58330804,0.125111478,89514,0.022541515,Sporisorium graminicola,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Fungi,Eukaryota
+621,1,A,Alanine,38.77701912,0.451374559,198771,0.075463296,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+622,2,C,Cysteine,4.926843543,0.071052177,25255,0.009588046,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+623,3,D,Aspartic Acid,30.21049551,0.305728319,154859,0.05879213,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+624,4,E,Glutamic Acid,32.39016777,0.365857648,166032,0.063033953,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+625,5,F,Phenylalanine,19.1827936,0.200814243,98331,0.037331308,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+626,6,G,Glycine,33.01541163,0.353340476,169237,0.06425073,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+627,7,H,Histidine,11.24424503,0.141916447,57638,0.021882234,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+628,8,I,Isoleucine,28.83808037,0.287808059,147824,0.056121296,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+629,9,K,Lysine,28.82754584,0.300156283,147770,0.056100795,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+630,10,L,Leucine,45.54077253,0.465654835,233442,0.088626121,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+631,11,M,Methionine,9.280530628,0.102095438,47572,0.018060682,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+632,12,N,Asparagine,23.63577838,0.244821202,121157,0.045997185,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+633,13,P,Proline,26.99629341,0.307282755,138383,0.052537026,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+634,14,Q,Glutamine,20.40460398,0.26018266,104594,0.039709052,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+635,15,R,Arginine,25.76648459,0.272042702,132079,0.050143716,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+636,16,S,Serine,50.39797113,0.68234958,258340,0.098078632,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+637,17,T,Threonine,30.88782677,0.373032008,158331,0.060110273,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+638,18,V,Valine,32.46839641,0.313153395,166433,0.063186193,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+639,19,W,Tryptophan,5.561061256,0.06836691,28506,0.010822286,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+640,20,Y,Tyrosine,15.50039017,0.157704176,79455,0.030165045,Sugiyamaella lignohabitans,Trichomonascaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+641,1,A,Alanine,41.0910277,0.313773783,409431,0.081717584,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+642,2,C,Cysteine,5.838418306,0.060395343,58174,0.011610842,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+643,3,D,Aspartic Acid,28.67252108,0.246511012,285693,0.057020943,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+644,4,E,Glutamic Acid,31.30248896,0.287841702,311898,0.062251151,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+645,5,F,Phenylalanine,18.78101164,0.154085445,187134,0.037349733,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+646,6,G,Glycine,32.66298675,0.242007868,325454,0.064956768,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+647,7,H,Histidine,11.98293858,0.104905203,119398,0.023830428,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+648,8,I,Isoleucine,27.19831393,0.226086044,271004,0.054089192,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+649,9,K,Lysine,24.46778402,0.21086508,243797,0.048658997,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+650,10,L,Leucine,44.93486552,0.380568965,447731,0.089361811,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+651,11,M,Methionine,10.76124047,0.089602971,107225,0.021400842,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+652,12,N,Asparagine,20.02498996,0.164507462,199529,0.039823628,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+653,13,P,Proline,28.79847451,0.247725903,286948,0.057271426,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+654,14,Q,Glutamine,20.94339623,0.194951117,208680,0.041650059,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+655,15,R,Arginine,29.86651947,0.255162902,297590,0.059395443,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+656,16,S,Serine,42.35427539,0.369125031,422018,0.0842298,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+657,17,T,Threonine,30.95895223,0.242372137,308475,0.061567961,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+658,18,V,Valine,30.44660779,0.246062289,303370,0.060549063,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+659,19,W,Tryptophan,7.138398234,0.064307819,71127,0.014196108,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+660,20,Y,Tyrosine,14.61672019,0.113934284,145641,0.029068221,Talaromyces marneffei,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+661,1,A,Alanine,43.77883965,0.317231278,517641,0.082490105,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+662,2,C,Cysteine,6.478010825,0.06007981,76596,0.012206166,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+663,3,D,Aspartic Acid,30.49196549,0.244134807,360537,0.057454365,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+664,4,E,Glutamic Acid,32.02757104,0.274540537,378694,0.060347824,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+665,5,F,Phenylalanine,20.64715832,0.158932427,244132,0.038904326,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+666,6,G,Glycine,35.45052436,0.251562355,419167,0.06679751,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+667,7,H,Histidine,12.81723613,0.10685146,151551,0.024150826,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+668,8,I,Isoleucine,28.03771989,0.22531579,331518,0.052829963,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+669,9,K,Lysine,25.08110622,0.207396901,296559,0.047258975,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+670,10,L,Leucine,48.25558187,0.389124505,570574,0.090925389,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+671,11,M,Methionine,11.07814614,0.086115409,130988,0.020873953,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+672,12,N,Asparagine,21.00888024,0.164475131,248409,0.039585899,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+673,13,P,Proline,30.32966847,0.244337011,358618,0.057148558,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+674,14,Q,Glutamine,21.76852165,0.189574587,257391,0.041017251,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+675,15,R,Arginine,30.60673207,0.251102134,361894,0.057670614,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+676,16,S,Serine,44.72826455,0.366363725,528867,0.084279055,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+677,17,T,Threonine,32.05759472,0.242349352,379049,0.060404396,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+678,18,V,Valine,32.70196211,0.252103168,386668,0.061618542,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+679,19,W,Tryptophan,7.955429635,0.065575714,94065,0.014989987,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+680,20,Y,Tyrosine,15.41534168,0.113796119,182271,0.029046296,Talaromyces rugulosus,Trichocomaceae,Eurotiales,Eurotiomycetes,Ascomycota,Fungi,Eukaryota
+681,1,A,Alanine,46.61757903,0.427502345,423241,0.098379842,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+682,2,C,Cysteine,5.378676066,0.05978274,48833,0.011350939,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+683,3,D,Aspartic Acid,26.9661857,0.26174359,244826,0.056908341,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+684,4,E,Glutamic Acid,30.14671219,0.329924616,273702,0.063620395,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+685,5,F,Phenylalanine,16.0693909,0.154017074,145894,0.033912189,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+686,6,G,Glycine,35.7550391,0.299422042,324620,0.07545598,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+687,7,H,Histidine,10.9199251,0.108290113,99142,0.023044966,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+688,8,I,Isoleucine,19.46051327,0.190624335,176682,0.041068675,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+689,9,K,Lysine,21.20696112,0.220686453,192538,0.044754308,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+690,10,L,Leucine,41.17490913,0.400821482,373827,0.086893853,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+691,11,M,Methionine,9.33384734,0.092290953,84742,0.019697772,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+692,12,N,Asparagine,15.33803282,0.14876284,139254,0.03236876,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+693,13,P,Proline,31.72496971,0.333294012,288031,0.066951085,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+694,14,Q,Glutamine,18.59709219,0.210883831,168843,0.039246547,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+695,15,R,Arginine,32.73356096,0.302037667,297188,0.069079575,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+696,16,S,Serine,37.32250248,0.375260934,338851,0.078763891,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+697,17,T,Threonine,27.15794691,0.248977122,246567,0.057313026,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+698,18,V,Valine,29.27238683,0.276187325,265764,0.061775254,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+699,19,W,Tryptophan,6.599405221,0.06546565,59916,0.013927116,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+700,20,Y,Tyrosine,12.07732129,0.110096353,109650,0.025487487,Thermothelomyces thermophilus,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+701,1,A,Alanine,48.52469262,0.400297582,473601,0.104655965,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+702,2,C,Cysteine,5.507172131,0.05843406,53750,0.011877631,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+703,3,D,Aspartic Acid,25.93647541,0.236313445,253140,0.055938672,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+704,4,E,Glutamic Acid,28.10584016,0.269825392,274313,0.060617464,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+705,5,F,Phenylalanine,15.90829918,0.142756623,155265,0.034310334,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+706,6,G,Glycine,34.87540984,0.271876152,340384,0.075217781,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+707,7,H,Histidine,10.7692623,0.101075915,105108,0.023226681,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+708,8,I,Isoleucine,18.62059426,0.169913809,181737,0.040160095,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+709,9,K,Lysine,19.63247951,0.192875439,191613,0.042342485,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+710,10,L,Leucine,41.35911885,0.372100449,403665,0.089201565,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+711,11,M,Methionine,9.067622951,0.083709691,88500,0.019556658,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+712,12,N,Asparagine,14.28258197,0.130920411,139398,0.030804057,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+713,13,P,Proline,31.60594262,0.287602546,308474,0.068166335,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+714,14,Q,Glutamine,18.10430328,0.183293817,176698,0.039046581,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+715,15,R,Arginine,31.97663934,0.279559862,312092,0.068965837,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+716,16,S,Serine,35.72172131,0.330074986,348644,0.077043069,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+717,17,T,Threonine,26.15338115,0.2198607,255257,0.056406485,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+718,18,V,Valine,29.16741803,0.248390213,284674,0.06290703,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+719,19,W,Tryptophan,6.698463115,0.062169857,65377,0.014446956,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+720,20,Y,Tyrosine,11.64170082,0.100410486,113623,0.025108318,Thermothielavioides terrestris,Chaetomiaceae,Sordariales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+721,1,A,Alanine,32.08948546,0.339539911,157784,0.066040847,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+722,2,C,Cysteine,6.534065487,0.089276462,32128,0.013447247,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+723,3,D,Aspartic Acid,28.54809843,0.325492717,140371,0.058752597,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+724,4,E,Glutamic Acid,33.37116128,0.39390241,164086,0.068678564,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+725,5,F,Phenylalanine,20.63046573,0.25027135,101440,0.04245794,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+726,6,G,Glycine,27.07789302,0.280079668,133142,0.055726883,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+727,7,H,Histidine,10.38499085,0.124241309,51063,0.021372533,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+728,8,I,Isoleucine,27.76855806,0.333752685,136538,0.057148286,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+729,9,K,Lysine,32.0874517,0.3619982,157774,0.066036662,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+730,10,L,Leucine,47.84787472,0.565080921,235268,0.098471949,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+731,11,M,Methionine,10.14948139,0.116940052,49905,0.02088785,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+732,12,N,Asparagine,23.22635754,0.2808053,114204,0.047800341,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+733,13,P,Proline,21.39149888,0.248815754,105182,0.044024162,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+734,14,Q,Glutamine,20.11673785,0.23857829,98914,0.041400677,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+735,15,R,Arginine,25.94427496,0.272756961,127568,0.053393873,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+736,16,S,Serine,42.5814521,0.526112462,209373,0.087633539,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+737,17,T,Threonine,25.67663209,0.302878273,126252,0.052843058,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+738,18,V,Valine,29.59873907,0.311670779,145537,0.060914838,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+739,19,W,Tryptophan,5.243847875,0.071785107,25784,0.010791951,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+740,20,Y,Tyrosine,15.63453325,0.17606971,76875,0.032176204,Torulaspora globosa,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+741,1,A,Alanine,46.39881885,0.398533554,384971,0.098068266,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+742,2,C,Cysteine,6.277088104,0.066398121,52081,0.013267216,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+743,3,D,Aspartic Acid,27.84934314,0.273600318,231066,0.058862205,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+744,4,E,Glutamic Acid,27.37616006,0.303243716,227140,0.057862088,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+745,5,F,Phenylalanine,16.2463541,0.16111431,134796,0.034338197,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+746,6,G,Glycine,34.04543811,0.290653433,282475,0.071958235,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+747,7,H,Histidine,11.83030011,0.112888244,98156,0.025004452,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+748,8,I,Isoleucine,19.46956731,0.203402392,161539,0.041150761,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+749,9,K,Lysine,21.71411354,0.226815933,180162,0.045894821,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+750,10,L,Leucine,41.96492708,0.408179344,348183,0.088696819,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+751,11,M,Methionine,10.27829336,0.09823785,85279,0.021724139,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+752,12,N,Asparagine,15.51560805,0.159584832,128733,0.032793696,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+753,13,P,Proline,29.63890563,0.283846171,245914,0.062644614,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+754,14,Q,Glutamine,19.70555623,0.21228038,163497,0.041649546,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+755,15,R,Arginine,32.24237676,0.293308419,267515,0.068147295,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+756,16,S,Serine,39.09943353,0.388574328,324408,0.082640329,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+757,17,T,Threonine,25.91334217,0.251603535,215003,0.054770285,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+758,18,V,Valine,29.38989996,0.270233245,243848,0.062118317,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+759,19,W,Tryptophan,6.481981439,0.066131475,53781,0.013700277,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+760,20,Y,Tyrosine,11.69024949,0.11239755,96994,0.024708441,Ustilaginoidea virens,Clavicipitaceae,Hypocreales,Sordariomycetes,Ascomycota,Fungi,Eukaryota
+761,1,A,Alanine,28.97747658,0.311338297,145380,0.057868813,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+762,2,C,Cysteine,6.649192745,0.086954458,33359,0.01327862,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+763,3,D,Aspartic Acid,29.39206697,0.330411908,147460,0.058696762,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+764,4,E,Glutamic Acid,33.61530795,0.393732206,168648,0.067130689,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+765,5,F,Phenylalanine,22.14151884,0.263975669,111084,0.044217219,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+766,6,G,Glycine,26.58501096,0.273876267,133377,0.053090994,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+767,7,H,Histidine,10.84333267,0.130688956,54401,0.021654432,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+768,8,I,Isoleucine,31.66513853,0.358091424,158864,0.063236148,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+769,9,K,Lysine,35.13514052,0.382347035,176273,0.070165836,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+770,10,L,Leucine,48.08810046,0.547719854,241258,0.096033252,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+771,11,M,Methionine,10.58481164,0.117603124,53104,0.021138158,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+772,12,N,Asparagine,27.96432131,0.33278518,140297,0.055845514,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+773,13,P,Proline,20.9481762,0.241288242,105097,0.041834081,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+774,14,Q,Glutamine,20.30177397,0.254739416,101854,0.040543198,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+775,15,R,Arginine,23.52880207,0.250569232,118044,0.046987661,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+776,16,S,Serine,45.51066374,0.559973403,228327,0.09088604,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+777,17,T,Threonine,27.83715368,0.348696012,139659,0.055591557,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+778,18,V,Valine,29.13813036,0.309351131,146186,0.058189643,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+779,19,W,Tryptophan,5.241179988,0.070758938,26295,0.01046678,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota
+780,20,Y,Tyrosine,16.5969703,0.187241952,83267,0.033144604,Zygotorulaspora mrakii,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Fungi,Eukaryota

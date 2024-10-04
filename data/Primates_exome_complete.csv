@@ -1,0 +1,681 @@
+,X,aa_letter,aa_full,mean_aa_freq,se_aa_freq,aa_total_count,relativefreq_aa,species,family,order,class,phylum,kingdom,superkingdom
+1,1,A,Alanine,44.38910506,0.231977038,1711200,0.068575946,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+2,2,C,Cysteine,13.58070039,0.081455056,523536,0.020980585,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+3,3,D,Aspartic Acid,31.51595331,0.186123167,1214940,0.048688441,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+4,4,E,Glutamic Acid,47.24103761,0.28002949,1821142,0.072981847,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+5,5,F,Phenylalanine,22.52801556,0.108928985,868455,0.034803134,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+6,6,G,Glycine,40.81867704,0.214303158,1573560,0.063060055,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+7,7,H,Histidine,17.01940337,0.090647165,656098,0.026292976,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+8,8,I,Isoleucine,28.15501946,0.16370629,1085376,0.043496193,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+9,9,K,Lysine,38.34106355,0.25199768,1478048,0.059232434,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+10,10,L,Leucine,63.13571984,0.320589238,2433882,0.097537261,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+11,11,M,Methionine,14.01079118,0.074024573,540116,0.021645024,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+12,12,N,Asparagine,23.87107652,0.139487099,920230,0.036878006,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+13,13,P,Proline,40.790869,0.240500184,1572488,0.063017095,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+14,14,Q,Glutamine,31.87481193,0.185713745,1228774,0.049242835,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+15,15,R,Arginine,36.54007782,0.182915248,1408620,0.056450122,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+16,16,S,Serine,55.90609598,0.316906251,2155180,0.086368343,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+17,17,T,Threonine,35.05535668,0.213772148,1351384,0.054156403,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+18,18,V,Valine,38.18817121,0.211665913,1472154,0.058996233,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+19,19,W,Tryptophan,7.440959792,0.04304546,286849,0.011495408,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+20,20,Y,Tyrosine,16.8955642,0.104970293,651324,0.026101659,Aotus nancymaae,Aotidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+21,1,A,Alanine,52.28542751,0.304863445,3203685,0.069019453,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+22,2,C,Cysteine,15.63377018,0.091369706,957928,0.020637381,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+23,3,D,Aspartic Acid,36.85528699,0.241390445,2258234,0.048650874,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+24,4,E,Glutamic Acid,56.22365479,0.415721388,3444992,0.074218116,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+25,5,F,Phenylalanine,25.55001387,0.135721632,1565526,0.033727332,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+26,6,G,Glycine,47.97046007,0.287128454,2939294,0.063323474,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+27,7,H,Histidine,19.55861472,0.094549589,1198415,0.025818377,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+28,8,I,Isoleucine,32.73990175,0.258001687,2006072,0.043218354,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+29,9,K,Lysine,45.17480783,0.370944566,2767996,0.05963307,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+30,10,L,Leucine,73.14840142,0.37289747,4482022,0.096559652,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+31,11,M,Methionine,15.86594422,0.07767645,972154,0.020943862,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+32,12,N,Asparagine,27.25996769,0.166738442,1670300,0.035984559,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+33,13,P,Proline,48.87617711,0.337851148,2994790,0.064519067,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+34,14,Q,Glutamine,37.3750918,0.2020434,2290084,0.049337043,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+35,15,R,Arginine,42.94996165,0.238621649,2631673,0.056696158,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+36,16,S,Serine,65.40383203,0.377998686,4007489,0.086336422,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+37,17,T,Threonine,41.53312226,0.323349154,2544859,0.054825857,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+38,18,V,Valine,45.25983712,0.377793581,2773206,0.059745313,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+39,19,W,Tryptophan,8.79100093,0.062398731,538651,0.011604573,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+40,20,Y,Tyrosine,19.09096992,0.132373558,1169761,0.025201062,Callithrix jacchus,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+41,1,A,Alanine,35.96133395,0.234076563,1095598,0.067375322,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+42,2,C,Cysteine,11.64196153,0.086618764,354684,0.021811786,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+43,3,D,Aspartic Acid,26.038305,0.187182538,793283,0.048784041,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+44,4,E,Glutamic Acid,38.3826889,0.30735646,1169367,0.07191185,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+45,5,F,Phenylalanine,19.61051664,0.11595437,597454,0.036741264,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+46,6,G,Glycine,34.0236329,0.23923958,1036564,0.063744944,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+47,7,H,Histidine,13.90894768,0.084463947,423750,0.026059095,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+48,8,I,Isoleucine,23.90566533,0.188904693,728310,0.044788436,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+49,9,K,Lysine,31.783004,0.26432847,968301,0.059547016,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+50,10,L,Leucine,52.5295083,0.312067888,1600364,0.098416609,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+51,11,M,Methionine,11.86962516,0.069292156,361620,0.022238325,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+52,12,N,Asparagine,19.6620495,0.137192122,599024,0.036837814,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+53,13,P,Proline,32.50495634,0.254508451,990296,0.060899629,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+54,14,Q,Glutamine,25.55836014,0.171207851,778661,0.047884841,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+55,15,R,Arginine,29.91341167,0.195606062,911342,0.056044243,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+56,16,S,Serine,44.68620758,0.312173662,1361410,0.083721801,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+57,17,T,Threonine,28.67695136,0.235419734,873672,0.053727674,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+58,18,V,Valine,32.45890501,0.264691773,988893,0.06081335,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+59,19,W,Tryptophan,6.321801352,0.048910194,192600,0.011844205,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+60,20,Y,Tyrosine,14.30854067,0.099643553,435924,0.026807753,Carlito syrichta,Tarsiidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+61,1,A,Alanine,47.93140818,0.257400003,2176038,0.070190685,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+62,2,C,Cysteine,14.3301174,0.087878985,650573,0.020985003,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+63,3,D,Aspartic Acid,33.1815018,0.178662075,1506407,0.048590943,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+64,4,E,Glutamic Acid,50.40102205,0.303878625,2288156,0.073807184,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+65,5,F,Phenylalanine,23.28676843,0.109713298,1057196,0.03410111,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+66,6,G,Glycine,44.40901782,0.231954449,2016125,0.065032502,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+67,7,H,Histidine,17.64851649,0.08711371,801225,0.025844462,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+68,8,I,Isoleucine,28.8554814,0.15711958,1310010,0.042255925,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+69,9,K,Lysine,39.70091852,0.226069614,1802382,0.058137968,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+70,10,L,Leucine,66.18192031,0.339527267,3004593,0.096916709,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+71,11,M,Methionine,14.45838014,0.070436116,656396,0.021172831,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+72,12,N,Asparagine,24.36637371,0.129374554,1106209,0.035682083,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+73,13,P,Proline,44.2076918,0.243725688,2006985,0.06473768,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+74,14,Q,Glutamine,33.89596687,0.203230082,1538843,0.049637205,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+75,15,R,Arginine,39.18059869,0.199207627,1778760,0.057376012,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+76,16,S,Serine,58.95345712,0.31874264,2676428,0.086331358,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+77,17,T,Threonine,36.67019097,0.207133983,1664790,0.053699775,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+78,18,V,Valine,40.33632899,0.222366881,1831229,0.059068462,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+79,19,W,Tryptophan,7.748738959,0.043044005,351785,0.011347242,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+80,20,Y,Tyrosine,17.12980462,0.083575322,777676,0.025084861,Cebus imitator,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+81,1,A,Alanine,49.16364975,0.243795764,2471555,0.068959942,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+82,2,C,Cysteine,15.24524586,0.087365051,766409,0.021383914,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+83,3,D,Aspartic Acid,34.43097549,0.191532253,1730914,0.048294992,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+84,4,E,Glutamic Acid,52.23020767,0.323258112,2625717,0.073261283,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+85,5,F,Phenylalanine,24.57733927,0.115501873,1235552,0.034473679,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+86,6,G,Glycine,45.85341741,0.234451128,2305143,0.064316807,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+87,7,H,Histidine,18.70269733,0.087919769,940222,0.026233547,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+88,8,I,Isoleucine,30.49544478,0.18890088,1533067,0.042774776,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+89,9,K,Lysine,41.46731779,0.267432886,2084645,0.058164596,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+90,10,L,Leucine,69.76195496,0.336943016,3507073,0.097852384,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+91,11,M,Methionine,14.96031588,0.069707753,752085,0.020984254,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+92,12,N,Asparagine,25.6906429,0.141168683,1291520,0.036035267,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+93,13,P,Proline,45.88914306,0.263015489,2306939,0.064366918,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+94,14,Q,Glutamine,35.25676321,0.190845775,1772428,0.049453292,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+95,15,R,Arginine,40.57789624,0.194256336,2039932,0.056917039,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+96,16,S,Serine,61.69611314,0.330956296,3101587,0.086538741,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+97,17,T,Threonine,38.65095878,0.242254878,1943061,0.054214199,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+98,18,V,Valine,42.08372454,0.26048033,2115633,0.059029206,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+99,19,W,Tryptophan,8.306333546,0.047091716,417576,0.011650971,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+100,20,Y,Tyrosine,17.89041614,0.094796437,899387,0.025094192,Cercocebus atys,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+101,1,A,Alanine,48.7385083,0.224501489,2357043,0.069421126,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+102,2,C,Cysteine,14.60387502,0.080462544,706258,0.020801159,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+103,3,D,Aspartic Acid,34.01416431,0.172584335,1644959,0.048448376,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+104,4,E,Glutamic Acid,51.7509977,0.286380465,2502730,0.073711992,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+105,5,F,Phenylalanine,23.89181365,0.107448979,1155432,0.034030516,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+106,6,G,Glycine,44.88652013,0.209102427,2170757,0.063934513,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+107,7,H,Histidine,18.26550319,0.085549714,883338,0.026016631,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+108,8,I,Isoleucine,29.92450528,0.157031683,1447179,0.042623234,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+109,9,K,Lysine,41.03500755,0.22198865,1984494,0.058448577,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+110,10,L,Leucine,68.54680424,0.331935633,3314992,0.097635248,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+111,11,M,Methionine,14.82973884,0.069353481,717181,0.02112287,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+112,12,N,Asparagine,25.44899816,0.131459562,1230739,0.036248506,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+113,13,P,Proline,45.35084055,0.227089211,2193212,0.064595872,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+114,14,Q,Glutamine,35.15212671,0.195100062,1699992,0.050069243,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+115,15,R,Arginine,40.28452679,0.179584569,1948200,0.057379623,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+116,16,S,Serine,60.78364798,0.308225434,2939558,0.086577728,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+117,17,T,Threonine,37.85072683,0.201411545,1830499,0.053913018,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+118,18,V,Valine,41.1567999,0.201765321,1990384,0.058622053,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+119,19,W,Tryptophan,8.013357871,0.041780411,387534,0.011413897,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+120,20,Y,Tyrosine,17.54180021,0.080757785,848339,0.024985819,Chlorocebus sabaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+121,1,A,Alanine,36.15649724,0.197051467,1206470,0.068328598,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+122,2,C,Cysteine,11.90335052,0.08279289,397191,0.022494968,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+123,3,D,Aspartic Acid,25.42840446,0.154310067,848495,0.048054634,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+124,4,E,Glutamic Acid,37.87488012,0.245886094,1263809,0.071576001,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+125,5,F,Phenylalanine,19.35300288,0.104199847,645771,0.036573332,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+126,6,G,Glycine,34.24169863,0.201697917,1142577,0.064710009,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+127,7,H,Histidine,13.90427955,0.078782659,463958,0.026276327,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+128,8,I,Isoleucine,23.43943299,0.148578152,782127,0.044295873,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+129,9,K,Lysine,31.07198514,0.202960265,1036810,0.05871988,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+130,10,L,Leucine,52.11612923,0.281642852,1739011,0.098489133,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+131,11,M,Methionine,11.59775833,0.061694946,386994,0.02191746,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+132,12,N,Asparagine,19.45240949,0.120462691,649088,0.03676119,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+133,13,P,Proline,32.63135339,0.211825329,1088843,0.061666777,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+134,14,Q,Glutamine,25.35285303,0.154129796,845974,0.047911857,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+135,15,R,Arginine,29.68502757,0.15823927,990530,0.056098806,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+136,16,S,Serine,44.13656797,0.277617334,1472749,0.083409347,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+137,17,T,Threonine,28.42214097,0.199834714,948390,0.053712201,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+138,18,V,Valine,31.82908775,0.195854504,1062073,0.060150654,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+139,19,W,Tryptophan,6.406587149,0.039630144,213775,0.012107177,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+140,20,Y,Tyrosine,14.1526912,0.080332932,472247,0.026745775,Colobus angolensis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+141,1,A,Alanine,49.73606022,0.22131272,3013110,0.070544171,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+142,2,C,Cysteine,14.79650721,0.075267284,896402,0.020986932,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+143,3,D,Aspartic Acid,33.94556139,0.154565835,2056490,0.04814739,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+144,4,E,Glutamic Acid,52.33189726,0.262704157,3170371,0.07422603,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+145,5,F,Phenylalanine,23.48052227,0.093310875,1422497,0.033304085,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+146,6,G,Glycine,45.13885312,0.193781868,2734602,0.064023627,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+147,7,H,Histidine,18.41971213,0.078674457,1115903,0.02612598,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+148,8,I,Isoleucine,29.17893104,0.134949092,1767718,0.041386541,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+149,9,K,Lysine,41.12513618,0.197363047,2491443,0.058330689,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+150,10,L,Leucine,68.58134429,0.297224502,4154795,0.09727377,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+151,11,M,Methionine,14.676323,0.060914846,889121,0.020816467,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+152,12,N,Asparagine,25.00137004,0.11334788,1514633,0.035461211,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+153,13,P,Proline,46.57815853,0.227632698,2821798,0.066065096,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+154,14,Q,Glutamine,35.61642072,0.17782189,2157714,0.050517288,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+155,15,R,Arginine,41.02160708,0.176641943,2485171,0.058183846,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+156,16,S,Serine,61.18203427,0.28328306,3706530,0.086778805,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+157,17,T,Threonine,37.92966558,0.192269996,2297855,0.053798327,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+158,18,V,Valine,41.00802218,0.187107419,2484348,0.058164577,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+159,19,W,Tryptophan,8.02763197,0.036869315,486330,0.011386158,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+160,20,Y,Tyrosine,17.25854214,0.071010867,1045557,0.024479011,Gorilla gorilla,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+161,1,A,Alanine,48.68954092,0.186407372,4467168,0.068485075,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+162,2,C,Cysteine,14.74922614,0.061664414,1353212,0.020745767,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+163,3,D,Aspartic Acid,34.67991673,0.14819899,3181813,0.048779607,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+164,4,E,Glutamic Acid,52.53558661,0.240977863,4820035,0.073894793,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+165,5,F,Phenylalanine,24.08123338,0.086866419,2209405,0.033871855,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+166,6,G,Glycine,45.0713694,0.178522223,4135208,0.063395876,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+167,7,H,Histidine,18.34836727,0.065583772,1683426,0.025808198,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+168,8,I,Isoleucine,30.63510921,0.146675197,2810710,0.043090317,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+169,9,K,Lysine,42.1090705,0.210897488,3863423,0.059229206,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+170,10,L,Leucine,69.5807647,0.255278064,6383896,0.097869969,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+171,11,M,Methionine,15.10392597,0.055163947,1385755,0.021244675,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+172,12,N,Asparagine,25.89539826,0.108301319,2375851,0.036423598,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+173,13,P,Proline,45.5808955,0.197338096,4181956,0.064112558,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+174,14,Q,Glutamine,35.41256485,0.140754625,3249032,0.049810125,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+175,15,R,Arginine,39.85096133,0.144927605,3656246,0.056053025,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+176,16,S,Serine,61.72664254,0.2542981,5663296,0.086822624,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+177,17,T,Threonine,38.72296944,0.198432044,3552755,0.05446643,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+178,18,V,Valine,41.95584645,0.200863989,3849365,0.059013686,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+179,19,W,Tryptophan,8.259057418,0.037400517,757752,0.011616913,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+180,20,Y,Tyrosine,17.96268039,0.080444201,1648040,0.025265704,Homo sapiens,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+181,1,A,Alanine,45.26888468,0.214050215,2128045,0.069457072,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+182,2,C,Cysteine,13.65832075,0.074975077,642064,0.02095627,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+183,3,D,Aspartic Acid,31.5142845,0.161911252,1481455,0.048353078,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+184,4,E,Glutamic Acid,47.88140569,0.269286816,2250857,0.073465522,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+185,5,F,Phenylalanine,22.39443511,0.100574685,1052740,0.034360287,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+186,6,G,Glycine,41.37739582,0.19364208,1945110,0.063486272,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+187,7,H,Histidine,17.04231105,0.081014712,801142,0.026148403,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+188,8,I,Isoleucine,27.8628135,0.147037004,1309803,0.042750544,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+189,9,K,Lysine,38.2148312,0.20958913,1796441,0.058633878,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+190,10,L,Leucine,64.09521581,0.312538412,3013052,0.098342736,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+191,11,M,Methionine,13.94058585,0.065494723,655333,0.021389356,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+192,12,N,Asparagine,23.60756451,0.123090499,1109768,0.036221619,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+193,13,P,Proline,41.73279585,0.21824081,1961817,0.064031571,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+194,14,Q,Glutamine,32.65361952,0.183974749,1535014,0.050101186,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+195,15,R,Arginine,37.19064434,0.17032001,1748295,0.057062445,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+196,16,S,Serine,56.27271374,0.29286577,2645324,0.086340495,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+197,17,T,Threonine,34.93707588,0.18933545,1642357,0.053604744,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+198,18,V,Valine,38.16439405,0.190955701,1794070,0.058556491,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+199,19,W,Tryptophan,7.492863069,0.038639802,352232,0.011496469,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+200,20,Y,Tyrosine,16.45127529,0.07613415,773358,0.025241563,Hylobates moloch,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+201,1,A,Alanine,47.05594164,0.26034587,1767280,0.071357871,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+202,2,C,Cysteine,13.90502436,0.08879102,522231,0.021086241,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+203,3,D,Aspartic Acid,31.85052054,0.180218358,1196210,0.048299646,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+204,4,E,Glutamic Acid,48.25856698,0.295943494,1812447,0.073181589,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+205,5,F,Phenylalanine,22.64935964,0.109660852,850642,0.034346568,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+206,6,G,Glycine,42.94775941,0.238731289,1612989,0.065128028,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+207,7,H,Histidine,16.99131986,0.086471281,638143,0.025766447,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+208,8,I,Isoleucine,27.3967303,0.153320061,1028939,0.041545707,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+209,9,K,Lysine,37.87285992,0.227870168,1422391,0.057432208,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+210,10,L,Leucine,64.89722289,0.335727156,2437345,0.098413239,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+211,11,M,Methionine,13.85557952,0.071099442,520374,0.021011261,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+212,12,N,Asparagine,23.19431797,0.127670586,871109,0.035172968,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+213,13,P,Proline,42.84594084,0.258054308,1609165,0.064973625,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+214,14,Q,Glutamine,32.75690284,0.196000405,1230251,0.049674127,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+215,15,R,Arginine,38.34954869,0.203332708,1440294,0.058155082,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+216,16,S,Serine,56.22278137,0.322142569,2111559,0.085258903,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+217,17,T,Threonine,34.91527545,0.225338148,1311313,0.052947187,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+218,18,V,Valine,39.30992891,0.227638663,1476363,0.059611448,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+219,19,W,Tryptophan,7.541230663,0.044102645,283226,0.011435881,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+220,20,Y,Tyrosine,16.61908566,0.084791111,624163,0.025201973,Lemur catta,Lemuridae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+221,1,A,Alanine,53.15819597,0.340016551,3018535,0.069488166,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+222,2,C,Cysteine,15.88811989,0.102184666,902191,0.020768882,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+223,3,D,Aspartic Acid,37.04430826,0.262224978,2103524,0.048424161,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+224,4,E,Glutamic Acid,56.91198225,0.471532418,3231690,0.074395099,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+225,5,F,Phenylalanine,25.40752677,0.1452948,1442741,0.03321261,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+226,6,G,Glycine,50.06019301,0.359654578,2842618,0.06543847,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+227,7,H,Histidine,19.45324387,0.102330427,1104633,0.025429197,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+228,8,I,Isoleucine,32.6973091,0.283427775,1856684,0.042741782,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+229,9,K,Lysine,45.07653564,0.415253909,2559626,0.058923854,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+230,10,L,Leucine,73.16740631,0.401768908,4154738,0.09564412,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+231,11,M,Methionine,15.65171527,0.083149379,888767,0.020459855,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+232,12,N,Asparagine,27.22717667,0.179435518,1546068,0.035591249,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+233,13,P,Proline,49.58923288,0.377632441,2815875,0.064822833,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+234,14,Q,Glutamine,37.45280361,0.219504884,2126720,0.048958144,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+235,15,R,Arginine,43.44077557,0.259201028,2466741,0.056785596,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+236,16,S,Serine,66.00739645,0.431754464,3748164,0.086284586,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+237,17,T,Threonine,42.91069668,0.410009987,2436641,0.056092679,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+238,18,V,Valine,45.95238095,0.430426054,2609360,0.060068755,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+239,19,W,Tryptophan,8.768455903,0.066514926,497908,0.011462088,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+240,20,Y,Tyrosine,19.13093477,0.14502453,1086331,0.025007876,Macaca fascicularis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+241,1,A,Alanine,49.74176242,0.240595666,2614626,0.069284984,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+242,2,C,Cysteine,14.98217411,0.082651049,787523,0.020868575,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+243,3,D,Aspartic Acid,34.97119702,0.18150103,1838226,0.048711157,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+244,4,E,Glutamic Acid,53.17228521,0.293950566,2794948,0.074063337,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+245,5,F,Phenylalanine,24.40160566,0.1071287,1282646,0.033988841,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+246,6,G,Glycine,45.73809071,0.216926696,2404177,0.063708295,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+247,7,H,Histidine,18.73080435,0.088085915,984566,0.026090018,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+248,8,I,Isoleucine,30.56932501,0.160380818,1606846,0.042579818,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+249,9,K,Lysine,42.08072065,0.23813774,2211931,0.058613967,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+250,10,L,Leucine,70.02090785,0.332496441,3680579,0.097531676,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+251,11,M,Methionine,15.1925272,0.070487793,798580,0.021161574,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+252,12,N,Asparagine,25.92470132,0.131137107,1362706,0.036110351,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+253,13,P,Proline,45.97621947,0.230264751,2416694,0.064039983,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+254,14,Q,Glutamine,35.92255156,0.195783918,1888233,0.050036293,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+255,15,R,Arginine,41.04773229,0.188014747,2157633,0.057175125,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+256,16,S,Serine,61.97435507,0.309386567,3257620,0.086323684,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+257,17,T,Threonine,38.83600944,0.217907424,2041376,0.05409443,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+258,18,V,Valine,42.20782284,0.21966845,2218612,0.058791007,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+259,19,W,Tryptophan,8.26461076,0.043819627,434421,0.011511724,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+260,20,Y,Tyrosine,18.17451107,0.09243375,955325,0.025315161,Macaca mulatta,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+261,1,A,Alanine,47.47261902,0.229157134,2376147,0.068814679,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+262,2,C,Cysteine,14.71931752,0.082055781,736746,0.021336618,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+263,3,D,Aspartic Acid,33.23213394,0.165701405,1663368,0.048172161,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+264,4,E,Glutamic Acid,50.57552994,0.278877023,2531457,0.073312553,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+265,5,F,Phenylalanine,23.73617965,0.105710445,1188067,0.034407151,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+266,6,G,Glycine,44.31438675,0.21088825,2218068,0.064236614,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+267,7,H,Histidine,17.99628394,0.083006682,900768,0.026086796,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+268,8,I,Isoleucine,29.58941522,0.150816813,1481039,0.042891801,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+269,9,K,Lysine,39.98651429,0.207233043,2001445,0.057963079,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+270,10,L,Leucine,67.43721655,0.321339697,3375435,0.097754675,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+271,11,M,Methionine,14.61013326,0.066806922,731281,0.021178348,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+272,12,N,Asparagine,25.02007872,0.125591782,1252330,0.036268247,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+273,13,P,Proline,44.20010789,0.217958018,2212348,0.06407096,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+274,14,Q,Glutamine,34.33158852,0.191096002,1718399,0.049765893,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+275,15,R,Arginine,39.46055182,0.18173934,1975119,0.057200662,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+276,16,S,Serine,59.9081174,0.2987095,2998581,0.086840751,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+277,17,T,Threonine,37.3623559,0.197474684,1870098,0.054159189,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+278,18,V,Valine,40.58851617,0.201468752,2031577,0.05883572,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+279,19,W,Tryptophan,7.973568018,0.040565455,399101,0.011558211,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+280,20,Y,Tyrosine,17.34719198,0.078469502,868279,0.025145894,Macaca nemestrina,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+281,1,A,Alanine,48.2300946,0.256492293,2238214,0.068352169,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+282,2,C,Cysteine,14.72077488,0.087132653,683147,0.020862428,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+283,3,D,Aspartic Acid,34.48645678,0.196985894,1600413,0.048874549,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+284,4,E,Glutamic Acid,52.39815114,0.312434071,2431641,0.074259181,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+285,5,F,Phenylalanine,23.81308854,0.112299012,1105094,0.033748146,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+286,6,G,Glycine,44.40528369,0.232316622,2060716,0.062931609,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+287,7,H,Histidine,18.57659405,0.095235833,862084,0.026326934,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+288,8,I,Isoleucine,30.39241925,0.169477272,1410421,0.043072439,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+289,9,K,Lysine,42.33074752,0.261740567,1964443,0.059991556,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+290,10,L,Leucine,68.54843019,0.35655587,3181127,0.097147516,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+291,11,M,Methionine,14.9985778,0.077302724,696039,0.021256134,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+292,12,N,Asparagine,25.76876333,0.139668356,1195851,0.036519747,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+293,13,P,Proline,45.01592432,0.250556636,2089054,0.063797015,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+294,14,Q,Glutamine,35.30133385,0.211992936,1638229,0.050029401,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+295,15,R,Arginine,39.60359429,0.195979613,1837884,0.056126607,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+296,16,S,Serine,60.98256729,0.329005441,2830018,0.0864251,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+297,17,T,Threonine,38.48115586,0.23382853,1785795,0.054535876,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+298,18,V,Valine,41.53976771,0.231932116,1927736,0.058870572,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+299,19,W,Tryptophan,8.046544702,0.046187304,373416,0.011403643,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+300,20,Y,Tyrosine,17.97149137,0.099778314,834003,0.025469376,Macaca thibetana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+301,1,A,Alanine,35.50489974,0.191181085,1177520,0.068003548,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+302,2,C,Cysteine,11.81432233,0.081598945,391822,0.022628309,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+303,3,D,Aspartic Acid,25.00889492,0.149635255,829420,0.047900251,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+304,4,E,Glutamic Acid,37.26491784,0.239160418,1235891,0.071374561,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+305,5,F,Phenylalanine,19.21377959,0.101639515,637225,0.036800701,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+306,6,G,Glycine,33.801387,0.199553032,1121023,0.064740762,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+307,7,H,Histidine,13.74111262,0.076472771,455724,0.026318745,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+308,8,I,Isoleucine,23.17470225,0.143790229,768589,0.044387169,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+309,9,K,Lysine,30.67860697,0.197202028,1017456,0.058759612,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+310,10,L,Leucine,51.53453942,0.273967151,1709143,0.098705575,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+311,11,M,Methionine,11.48511986,0.060077967,380904,0.021997778,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+312,12,N,Asparagine,19.17135534,0.117386072,635818,0.036719444,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+313,13,P,Proline,32.22436303,0.205926443,1068721,0.061720243,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+314,14,Q,Glutamine,25.01181969,0.151374917,829517,0.047905853,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+315,15,R,Arginine,29.20199005,0.154475554,968484,0.055931406,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+316,16,S,Serine,43.5082768,0.260239821,1442952,0.083332645,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+317,17,T,Threonine,28.03220262,0.179552802,929688,0.053690878,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+318,18,V,Valine,31.36803859,0.187099508,1040321,0.0600801,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+319,19,W,Tryptophan,6.329715061,0.038770699,209925,0.012123484,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+320,20,Y,Tyrosine,14.03358963,0.078802783,465424,0.026878935,Mandrillus leucophaeus,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+321,1,A,Alanine,51.23176545,0.382361093,2278584,0.070122334,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+322,2,C,Cysteine,15.14039032,0.108229338,673384,0.020723071,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+323,3,D,Aspartic Acid,35.50166382,0.304697391,1578972,0.048592109,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+324,4,E,Glutamic Acid,53.97762838,0.537677796,2400709,0.073880672,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+325,5,F,Phenylalanine,24.73306952,0.167060509,1100028,0.033852836,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+326,6,G,Glycine,47.18234553,0.368339179,2098482,0.064579781,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+327,7,H,Histidine,18.51589621,0.107819164,823513,0.025343219,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+328,8,I,Isoleucine,31.30124112,0.33546819,1392154,0.042842874,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+329,9,K,Lysine,43.41062596,0.487186486,1930731,0.059417324,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+330,10,L,Leucine,69.8539437,0.435435369,3106824,0.095611024,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+331,11,M,Methionine,15.03817789,0.08985555,668838,0.02058317,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+332,12,N,Asparagine,25.95051264,0.208127194,1154175,0.035519184,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+333,13,P,Proline,48.04361903,0.438116631,2136788,0.06575863,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+334,14,Q,Glutamine,35.37294271,0.229563109,1573247,0.048415925,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+335,15,R,Arginine,42.05171328,0.302835697,1870292,0.057557342,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+336,16,S,Serine,62.64785502,0.464179237,2786326,0.085747851,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+337,17,T,Threonine,39.59769314,0.419646743,1761147,0.054198457,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+338,18,V,Valine,44.06232575,0.508208322,1959716,0.060309323,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+339,19,W,Tryptophan,8.410333663,0.080392101,374058,0.011511456,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+340,20,Y,Tyrosine,18.58179692,0.169958459,826444,0.025433419,Microcebus murinus,Cheirogaleidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+341,1,A,Alanine,46.56424659,0.231114978,1997839,0.070107144,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+342,2,C,Cysteine,13.99496562,0.08033114,600454,0.021070824,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+343,3,D,Aspartic Acid,32.00964923,0.172812245,1373374,0.048193738,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+344,4,E,Glutamic Acid,48.42505535,0.286604289,2077677,0.072908778,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+345,5,F,Phenylalanine,22.822981,0.107627777,979220,0.034362287,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+346,6,G,Glycine,42.99692344,0.215881301,1844783,0.064736181,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+347,7,H,Histidine,17.35571612,0.086743114,744647,0.026130771,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+348,8,I,Isoleucine,28.21682788,0.15686402,1210643,0.042483265,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+349,9,K,Lysine,38.21062813,0.222044561,1639427,0.057529933,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+350,10,L,Leucine,65.14166181,0.32965176,2794903,0.098077306,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+351,11,M,Methionine,14.14282718,0.070161025,606798,0.021293445,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+352,12,N,Asparagine,23.76473604,0.129825713,1019626,0.035780194,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+353,13,P,Proline,42.86936255,0.234265257,1839310,0.064544125,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+354,14,Q,Glutamine,32.9732199,0.194964535,1414716,0.04964449,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+355,15,R,Arginine,38.18515325,0.184752788,1638334,0.057491578,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+356,16,S,Serine,57.16914113,0.31454757,2452842,0.086073876,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+357,17,T,Threonine,35.77461834,0.214747936,1534910,0.053862276,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+358,18,V,Valine,39.15112458,0.206967879,1679779,0.058945945,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+359,19,W,Tryptophan,7.672322573,0.040915298,329181,0.011551451,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+360,20,Y,Tyrosine,16.74574059,0.082263857,718476,0.025212392,Nomascus leucogenys,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+361,1,A,Alanine,47.1528143,0.234786486,2133712,0.069355012,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+362,2,C,Cysteine,14.49185653,0.08451041,655771,0.021315438,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+363,3,D,Aspartic Acid,32.96853108,0.175768477,1491859,0.04849197,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+364,4,E,Glutamic Acid,49.51309363,0.280887204,2240517,0.072826643,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+365,5,F,Phenylalanine,23.32454531,0.104504994,1055459,0.034307053,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+366,6,G,Glycine,43.83416941,0.21861644,1983540,0.064473762,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+367,7,H,Histidine,17.80020331,0.086891956,805477,0.02618154,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+368,8,I,Isoleucine,28.85640096,0.151366697,1305781,0.042443618,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+369,9,K,Lysine,39.65169831,0.229005755,1794279,0.058321948,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+370,10,L,Leucine,66.71437095,0.322082621,3018892,0.09812725,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+371,11,M,Methionine,14.44076374,0.068641534,653459,0.021240288,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+372,12,N,Asparagine,24.18457051,0.125781177,1094376,0.035572027,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+373,13,P,Proline,43.70458111,0.235784404,1977676,0.064283156,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+374,14,Q,Glutamine,33.84435703,0.189678839,1531491,0.049780184,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+375,15,R,Arginine,38.88855495,0.185598368,1759746,0.057199474,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+376,16,S,Serine,58.55861749,0.302836666,2649836,0.086131309,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+377,17,T,Threonine,36.40812358,0.198845985,1647504,0.053551116,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+378,18,V,Valine,40.34383771,0.211579353,1825599,0.059339986,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+379,19,W,Tryptophan,7.836533999,0.04262907,354611,0.011526415,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+380,20,Y,Tyrosine,17.35846722,0.089284491,785488,0.02553181,Nycticebus coucang,Lorisidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+381,1,A,Alanine,42.3657967,0.259425968,1233692,0.068889763,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+382,2,C,Cysteine,13.23399725,0.097421442,385374,0.02151941,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+383,3,D,Aspartic Acid,29.87232143,0.205487294,869882,0.048574494,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+384,4,E,Glutamic Acid,44.1362294,0.328891749,1285247,0.071768611,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+385,5,F,Phenylalanine,22.05271291,0.125817573,642175,0.035859261,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+386,6,G,Glycine,39.58832418,0.252378628,1152812,0.064373398,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+387,7,H,Histidine,15.96092033,0.09791124,464782,0.025953578,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+388,8,I,Isoleucine,26.8407967,0.191639887,781604,0.043645022,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+389,9,K,Lysine,35.71074863,0.269248048,1039897,0.058068187,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+390,10,L,Leucine,60.89237637,0.372088821,1773186,0.099015284,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+391,11,M,Methionine,13.39052198,0.078891476,389932,0.02177393,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+392,12,N,Asparagine,22.34457418,0.151677854,650674,0.036333848,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+393,13,P,Proline,38.50494505,0.265827202,1121264,0.062611747,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+394,14,Q,Glutamine,30.11456044,0.216978805,876936,0.048968392,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+395,15,R,Arginine,34.67269918,0.21403878,1009669,0.056380246,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+396,16,S,Serine,52.08897665,0.346783323,1516831,0.084700337,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+397,17,T,Threonine,32.85999313,0.234496588,956883,0.053432658,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+398,18,V,Valine,36.97101648,0.253723131,1076596,0.060117471,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+399,19,W,Tryptophan,7.157348901,0.051970202,208422,0.011638352,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+400,20,Y,Tyrosine,16.22070742,0.101900529,472347,0.02637601,Otolemur garnettii,Galagidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+401,1,A,Alanine,47.95402299,0.204857317,2682596,0.069989994,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+402,2,C,Cysteine,14.38839134,0.072065396,804901,0.021000186,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+403,3,D,Aspartic Acid,32.94201033,0.151759913,1842809,0.048079618,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+404,4,E,Glutamic Acid,50.46615184,0.258264901,2823127,0.073656503,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+405,5,F,Phenylalanine,23.18069037,0.093273619,1296751,0.033832748,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+406,6,G,Glycine,43.88162528,0.187149537,2454782,0.064046236,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+407,7,H,Histidine,17.92879999,0.077129646,1002955,0.026167494,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+408,8,I,Isoleucine,28.78879534,0.136313016,1610474,0.042017905,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+409,9,K,Lysine,39.82678179,0.1978397,2227950,0.058128099,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+410,10,L,Leucine,66.98961406,0.293614861,3747466,0.097772874,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+411,11,M,Methionine,14.4344041,0.061857116,807475,0.021067343,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+412,12,N,Asparagine,24.51397008,0.114348576,1371336,0.0357787,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+413,13,P,Proline,44.68974455,0.210948119,2499989,0.065225704,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+414,14,Q,Glutamine,34.52902165,0.177102241,1931588,0.050395897,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+415,15,R,Arginine,39.47296259,0.162557976,2208157,0.057611692,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+416,16,S,Serine,59.66058883,0.285390736,3337473,0.087075994,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+417,17,T,Threonine,36.82805098,0.195437304,2060198,0.053751383,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+418,18,V,Valine,39.86601956,0.179702175,2230145,0.058185368,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+419,19,W,Tryptophan,7.854239288,0.035860445,439374,0.011463442,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+420,20,Y,Tyrosine,16.95952879,0.070719166,948733,0.02475282,Pan paniscus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+421,1,A,Alanine,53.12268955,0.309385523,3546577,0.068853666,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+422,2,C,Cysteine,15.98779246,0.091718937,1067377,0.020722183,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+423,3,D,Aspartic Acid,37.42494233,0.237441201,2498564,0.048507417,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+424,4,E,Glutamic Acid,57.86663072,0.435658077,3863292,0.075002408,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+425,5,F,Phenylalanine,25.85010934,0.133582451,1725805,0.033504983,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+426,6,G,Glycine,48.39917917,0.284623331,3231226,0.062731404,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+427,7,H,Histidine,19.85875198,0.092654428,1325810,0.025739432,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+428,8,I,Isoleucine,33.16960247,0.258089965,2214469,0.042991963,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+429,9,K,Lysine,46.21199185,0.385003838,3085205,0.059896535,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+430,10,L,Leucine,74.78403882,0.372420446,4992732,0.09692949,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+431,11,M,Methionine,15.97095653,0.07571594,1066253,0.020700362,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+432,12,N,Asparagine,27.70964021,0.163340689,1849951,0.035915168,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+433,13,P,Proline,49.9166442,0.357339237,3332535,0.064698229,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+434,14,Q,Glutamine,38.47604925,0.202386403,2568738,0.049869784,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+435,15,R,Arginine,43.69750756,0.237283625,2917333,0.056637448,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+436,16,S,Serine,66.90704293,0.381789165,4466848,0.086719916,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+437,17,T,Threonine,42.13673946,0.330188808,2813133,0.054614497,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+438,18,V,Valine,45.9579701,0.397777261,3068246,0.059567291,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+439,19,W,Tryptophan,8.900182739,0.06118016,594194,0.011535753,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+440,20,Y,Tyrosine,19.18183997,0.129634736,1280618,0.024862069,Pan troglodytes,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+441,1,A,Alanine,50.79710437,0.341002968,2775249,0.067951703,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+442,2,C,Cysteine,15.41563861,0.097719852,842218,0.020621626,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+443,3,D,Aspartic Acid,36.50087857,0.27627164,1994189,0.048827524,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+444,4,E,Glutamic Acid,55.97433832,0.49479365,3058102,0.074877331,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+445,5,F,Phenylalanine,25.36850679,0.152002469,1385983,0.03393566,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+446,6,G,Glycine,46.82368122,0.323509604,2558165,0.062636422,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+447,7,H,Histidine,19.23335286,0.103855703,1050795,0.025728614,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+448,8,I,Isoleucine,32.87366841,0.303711162,1796020,0.043975376,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+449,9,K,Lysine,45.28727532,0.437979411,2474225,0.060581159,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+450,10,L,Leucine,72.33830582,0.419446532,3952131,0.096767545,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+451,11,M,Methionine,15.67232859,0.085475974,856242,0.020965002,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+452,12,N,Asparagine,27.34908665,0.189280543,1494190,0.036585097,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+453,13,P,Proline,47.33550536,0.383532895,2586128,0.063321094,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+454,14,Q,Glutamine,36.78348647,0.223588347,2009629,0.049205571,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+455,15,R,Arginine,42.00399019,0.269620714,2294846,0.056189082,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+456,16,S,Serine,64.38508987,0.427170105,3517615,0.086128463,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+457,17,T,Threonine,40.93820698,0.374990641,2236618,0.054763375,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+458,18,V,Valine,44.81758612,0.448598722,2448564,0.059952852,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+459,19,W,Tryptophan,8.623421313,0.070932788,471132,0.011535621,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+460,20,Y,Tyrosine,19.02573489,0.152810993,1039452,0.025450882,Papio anubis,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+461,1,A,Alanine,40.60415436,0.196067415,1786664,0.067798365,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+462,2,C,Cysteine,12.83480296,0.072517482,564757,0.021430779,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+463,3,D,Aspartic Acid,29.04233898,0.147842251,1277921,0.048493144,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+464,4,E,Glutamic Acid,43.36111995,0.240106588,1907976,0.072401779,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+465,5,F,Phenylalanine,21.14926594,0.095661738,930610,0.035313767,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+466,6,G,Glycine,37.8675742,0.185835141,1666249,0.063228988,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+467,7,H,Histidine,15.6077451,0.075762985,686772,0.02606087,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+468,8,I,Isoleucine,26.7006727,0.139468303,1174883,0.044583171,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+469,9,K,Lysine,36.11931276,0.196141056,1589322,0.060309847,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+470,10,L,Leucine,58.42870779,0.278639371,2570980,0.097560728,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+471,11,M,Methionine,12.82618972,0.060726864,564378,0.021416397,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+472,12,N,Asparagine,23.74696605,0.129967099,1044914,0.03965125,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+473,13,P,Proline,37.33146221,0.209756203,1642659,0.062333821,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+474,14,Q,Glutamine,29.11072224,0.160933729,1280930,0.048607326,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+475,15,R,Arginine,33.43191219,0.157210212,1471071,0.055822588,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+476,16,S,Serine,50.97075133,0.270848189,2242815,0.085107882,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+477,17,T,Threonine,32.06092905,0.1763881,1410745,0.053533403,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+478,18,V,Valine,34.98461434,0.177965874,1539393,0.058415196,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+479,19,W,Tryptophan,6.824485251,0.035592319,300291,0.011395113,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+480,20,Y,Tyrosine,15.89205036,0.0744103,699282,0.026535586,Piliocolobus tephrosceles,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+481,1,A,Alanine,47.36588687,0.206680155,2678683,0.068527988,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+482,2,C,Cysteine,14.7555921,0.07848486,834473,0.021348086,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+483,3,D,Aspartic Acid,33.3202129,0.15499816,1884358,0.048206997,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+484,4,E,Glutamic Acid,51.39847577,0.254313367,2906738,0.074362255,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+485,5,F,Phenylalanine,23.47298994,0.098318264,1327468,0.033960238,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+486,6,G,Glycine,43.82165402,0.19504509,2478246,0.063400265,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+487,7,H,Histidine,18.2150549,0.078406367,1030116,0.026353166,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+488,8,I,Isoleucine,29.3826499,0.14074422,1661677,0.042510212,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+489,9,K,Lysine,41.0233763,0.20147308,2319995,0.059351775,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+490,10,L,Leucine,67.57724612,0.293758383,3821696,0.097769366,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+491,11,M,Methionine,14.64383852,0.061717508,828153,0.021186404,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+492,12,N,Asparagine,25.023783,0.119149232,1415170,0.036203893,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+493,13,P,Proline,44.63678319,0.21355614,2524344,0.064579577,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+494,14,Q,Glutamine,34.97982424,0.171801784,1978214,0.050608088,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+495,15,R,Arginine,39.46809188,0.163188884,2232039,0.057101621,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+496,16,S,Serine,59.81240606,0.278559772,3382571,0.086535356,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+497,17,T,Threonine,37.09730695,0.180912008,2097964,0.053671619,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+498,18,V,Valine,40.120029,0.186878912,2268908,0.058044831,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+499,19,W,Tryptophan,7.916167135,0.037009987,447683,0.011452947,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+500,20,Y,Tyrosine,17.15901897,0.074118559,970394,0.024825315,Pongo abelii,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+501,1,A,Alanine,45.53511031,0.197493691,2369465,0.069656196,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+502,2,C,Cysteine,13.93971481,0.071761714,725367,0.02132393,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+503,3,D,Aspartic Acid,31.31205319,0.145233804,1629354,0.04789883,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+504,4,E,Glutamic Acid,48.18283496,0.24183508,2507242,0.073706486,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+505,5,F,Phenylalanine,22.32342993,0.090770943,1161622,0.034148708,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+506,6,G,Glycine,41.75196018,0.184699878,2172605,0.063869017,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+507,7,H,Histidine,17.24598355,0.074693779,897412,0.026381612,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+508,8,I,Isoleucine,27.46139211,0.130329797,1428981,0.042008378,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+509,9,K,Lysine,38.44536475,0.194117609,2000543,0.058810835,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+510,10,L,Leucine,64.10779076,0.274814288,3335913,0.098067289,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+511,11,M,Methionine,13.86215312,0.05908912,721331,0.021205282,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+512,12,N,Asparagine,23.36394035,0.111010365,1215766,0.035740403,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+513,13,P,Proline,42.78518718,0.20994909,2226370,0.06544957,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+514,14,Q,Glutamine,32.76833346,0.161609564,1705133,0.050126538,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+515,15,R,Arginine,37.62987163,0.156891701,1958108,0.057563355,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+516,16,S,Serine,56.27440618,0.263052592,2928295,0.086084365,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+517,17,T,Threonine,34.83248136,0.17146323,1812543,0.053284117,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+518,18,V,Valine,38.07796525,0.175929946,1981425,0.058248815,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+519,19,W,Tryptophan,7.535167961,0.035145874,392100,0.011526735,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+520,20,Y,Tyrosine,16.27713506,0.071127598,846997,0.02489954,Pongo pygmaeus,Hominidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+521,1,A,Alanine,40.91968961,0.247791284,1070500,0.072223312,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+522,2,C,Cysteine,12.5018539,0.096982707,327061,0.02206579,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+523,3,D,Aspartic Acid,27.09399488,0.180334477,708806,0.047820941,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+524,4,E,Glutamic Acid,40.15783036,0.293007057,1050569,0.070878629,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+525,5,F,Phenylalanine,20.47188563,0.119017982,535565,0.036132908,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+526,6,G,Glycine,37.85023508,0.244441767,990200,0.06680572,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+527,7,H,Histidine,14.63472344,0.088878743,382859,0.025830308,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+528,8,I,Isoleucine,23.87878904,0.167365505,624693,0.042146098,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+529,9,K,Lysine,31.67623562,0.234100182,828682,0.055908602,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+530,10,L,Leucine,56.14452811,0.331728071,1468797,0.099095174,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+531,11,M,Methionine,12.03019762,0.070656737,314722,0.021233316,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+532,12,N,Asparagine,19.85994419,0.134564737,519556,0.035052831,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+533,13,P,Proline,36.57413707,0.259000515,956816,0.064553406,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+534,14,Q,Glutamine,27.05125951,0.185442145,707688,0.047745513,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+535,15,R,Arginine,32.98727113,0.19992923,862980,0.058222582,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+536,16,S,Serine,47.16818929,0.308638164,1233967,0.083251923,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+537,17,T,Threonine,29.67401858,0.21068177,776302,0.052374686,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+538,18,V,Valine,34.26076985,0.231204001,896296,0.060470309,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+539,19,W,Tryptophan,6.7336111,0.046664145,176158,0.011884833,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+540,20,Y,Tyrosine,14.90260311,0.092611205,389867,0.026303116,Propithecus coquereli,Indriidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+541,1,A,Alanine,39.8975194,0.189890383,1568172,0.069926031,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+542,2,C,Cysteine,12.72542933,0.076596635,500173,0.02230311,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+543,3,D,Aspartic Acid,27.15036255,0.144453655,1067145,0.04758484,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+544,4,E,Glutamic Acid,40.78944155,0.230739175,1603229,0.07148925,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+545,5,F,Phenylalanine,20.03686554,0.095091694,787549,0.035117433,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+546,6,G,Glycine,37.35484035,0.187377726,1468232,0.065469627,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+547,7,H,Histidine,15.11448925,0.073948654,594075,0.026490274,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+548,8,I,Isoleucine,23.96959674,0.132206806,942125,0.042010099,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+549,9,K,Lysine,32.1319425,0.183046552,1262946,0.056315762,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+550,10,L,Leucine,56.4299453,0.268133239,2217979,0.098901439,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+551,11,M,Methionine,12.11207226,0.058160841,476065,0.021228115,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+552,12,N,Asparagine,20.08876733,0.109950894,789589,0.035208398,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+553,13,P,Proline,37.05495484,0.206596255,1456445,0.064944035,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+554,14,Q,Glutamine,27.86118814,0.147963509,1095084,0.048830662,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+555,15,R,Arginine,33.27220455,0.1559104,1307764,0.058314232,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+556,16,S,Serine,48.66057753,0.260440696,1912604,0.085284526,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+557,17,T,Threonine,30.56939321,0.174928496,1201530,0.053577174,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+558,18,V,Valine,33.77359115,0.178594214,1327471,0.059192982,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+559,19,W,Tryptophan,6.959267269,0.037294777,273534,0.012197098,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+560,20,Y,Tyrosine,14.61503625,0.073459371,574444,0.025614913,Rhinopithecus bieti,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+561,1,A,Alanine,45.12356389,0.23263874,1940223,0.069576183,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+562,2,C,Cysteine,14.0757012,0.086031752,605227,0.021703373,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+563,3,D,Aspartic Acid,31.29794409,0.18127033,1345749,0.048258411,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+564,4,E,Glutamic Acid,47.32127076,0.289598866,2034720,0.072964835,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+565,5,F,Phenylalanine,22.31206103,0.105706542,959374,0.034403046,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+566,6,G,Glycine,41.66412391,0.212525482,1791474,0.06424206,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+567,7,H,Histidine,17.09128332,0.089804055,734891,0.02635311,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+568,8,I,Isoleucine,27.46081213,0.158940507,1180760,0.042341923,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+569,9,K,Lysine,37.76364017,0.243972221,1623761,0.05822789,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+570,10,L,Leucine,63.65849574,0.336471801,2737188,0.09815526,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+571,11,M,Methionine,13.72601051,0.071864098,590191,0.021164184,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+572,12,N,Asparagine,23.25938416,0.132520802,1000107,0.035863727,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+573,13,P,Proline,41.78810642,0.232922438,1796805,0.064433229,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+574,14,Q,Glutamine,32.3048979,0.199324582,1389046,0.049811036,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+575,15,R,Arginine,37.15784455,0.183432048,1597713,0.057293812,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+576,16,S,Serine,55.64586725,0.310101087,2392661,0.085800559,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+577,17,T,Threonine,34.71356807,0.209216836,1492614,0.053524973,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+578,18,V,Valine,38.03002465,0.207831242,1635215,0.058638629,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+579,19,W,Tryptophan,7.616563561,0.043543349,327497,0.011744006,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+580,20,Y,Tyrosine,16.53783897,0.093814536,711094,0.025499752,Rhinopithecus roxellana,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+581,1,A,Alanine,45.17071956,0.226716678,1723805,0.071213864,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+582,2,C,Cysteine,13.37977569,0.08423232,510599,0.021093875,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+583,3,D,Aspartic Acid,30.57090823,0.164905497,1166647,0.048196542,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+584,4,E,Glutamic Acid,46.02581102,0.266683443,1756437,0.072561958,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+585,5,F,Phenylalanine,21.89243226,0.106461249,835459,0.034514498,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+586,6,G,Glycine,41.74479849,0.219244287,1593065,0.065812731,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+587,7,H,Histidine,16.36048949,0.081899173,624349,0.025793117,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+588,8,I,Isoleucine,26.5180022,0.147904097,1011980,0.041806936,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+589,9,K,Lysine,36.18665164,0.207337162,1380955,0.057050038,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+590,10,L,Leucine,61.9582045,0.306710907,2364449,0.097680161,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+591,11,M,Methionine,13.4421414,0.066435513,512979,0.021192198,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+592,12,N,Asparagine,22.40964834,0.122710697,855197,0.035329914,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+593,13,P,Proline,41.5790577,0.23800013,1586740,0.065551432,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+594,14,Q,Glutamine,31.11265133,0.174859024,1187321,0.049050627,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+595,15,R,Arginine,37.05337771,0.184765366,1414031,0.058416475,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+596,16,S,Serine,54.14236675,0.292125774,2066181,0.085358108,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+597,17,T,Threonine,33.78166763,0.194322038,1289176,0.053258463,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+598,18,V,Valine,37.55442587,0.203651134,1433152,0.059206402,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+599,19,W,Tryptophan,7.327210314,0.040583797,279621,0.011551708,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+600,20,Y,Tyrosine,16.08636864,0.082083529,613888,0.025360952,Saimiri boliviensis,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+601,1,A,Alanine,51.15945045,0.270465708,2532137,0.069562984,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+602,2,C,Cysteine,15.09689868,0.086673239,747221,0.02052769,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+603,3,D,Aspartic Acid,36.22990201,0.200093852,1793199,0.049262845,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+604,4,E,Glutamic Acid,54.75654106,0.318731133,2710175,0.074454052,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+605,5,F,Phenylalanine,24.99638347,0.115059131,1237196,0.033988305,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+606,6,G,Glycine,46.68544297,0.233224761,2310696,0.063479547,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+607,7,H,Histidine,18.98737246,0.092841404,939780,0.025817679,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+608,8,I,Isoleucine,31.58490757,0.175926679,1563295,0.042946912,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+609,9,K,Lysine,43.76197596,0.264936527,2165999,0.059504424,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+610,10,L,Leucine,71.51736539,0.35817753,3539752,0.09724423,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+611,11,M,Methionine,15.63699364,0.076827958,773953,0.021262072,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+612,12,N,Asparagine,26.65410648,0.142383535,1319245,0.036242359,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+613,13,P,Proline,46.45624811,0.242096901,2299352,0.063167904,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+614,14,Q,Glutamine,36.79931306,0.212307306,1821382,0.05003709,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+615,15,R,Arginine,41.70251541,0.204015046,2064066,0.056704116,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+616,16,S,Serine,63.5293464,0.330653009,3144385,0.086382689,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+617,17,T,Threonine,39.54550965,0.220546044,1957305,0.053771173,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+618,18,V,Valine,43.40640469,0.239578891,2148400,0.059020944,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+619,19,W,Tryptophan,8.312698252,0.046614438,411437,0.011303016,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+620,20,Y,Tyrosine,18.62133549,0.103800499,921663,0.025319968,Sapajus apella,Cebidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+621,1,A,Alanine,45.70583318,0.194551405,2460345,0.069709439,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+622,2,C,Cysteine,13.96553966,0.072782602,751765,0.021299906,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+623,3,D,Aspartic Acid,31.71304106,0.147931748,1707113,0.048367968,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+624,4,E,Glutamic Acid,47.79212335,0.238944676,2572650,0.072891398,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+625,5,F,Phenylalanine,22.65415196,0.093263558,1219473,0.034551568,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+626,6,G,Glycine,41.97975107,0.182614927,2259770,0.064026508,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+627,7,H,Histidine,17.19528144,0.074756583,925622,0.02622583,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+628,8,I,Isoleucine,28.00921419,0.135298035,1507736,0.04271898,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+629,9,K,Lysine,38.24016348,0.191343285,2058468,0.058322978,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+630,10,L,Leucine,64.27048114,0.282152895,3459680,0.098023794,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+631,11,M,Methionine,14.02671373,0.060000631,755058,0.021393207,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+632,12,N,Asparagine,23.72736392,0.113155675,1277244,0.036188405,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+633,13,P,Proline,42.12669515,0.200374776,2267680,0.064250623,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+634,14,Q,Glutamine,32.49816088,0.162052895,1749376,0.049565414,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+635,15,R,Arginine,37.36637563,0.15378021,2011432,0.056990298,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+636,16,S,Serine,56.36301319,0.270651053,3034021,0.085963513,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+637,17,T,Threonine,35.22470741,0.188456422,1896146,0.053723877,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+638,18,V,Valine,38.52896155,0.17514541,2074014,0.058763446,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+639,19,W,Tryptophan,7.620564741,0.036063377,410215,0.011622702,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+640,20,Y,Tyrosine,16.65391046,0.071948229,896480,0.025400144,Symphalangus syndactylus,Hylobatidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+641,1,A,Alanine,38.88162275,0.191794617,1682019,0.069455412,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+642,2,C,Cysteine,12.23788719,0.074715406,529411,0.021860906,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+643,3,D,Aspartic Acid,27.11874711,0.15013494,1173157,0.048443033,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+644,4,E,Glutamic Acid,40.32847896,0.239227456,1744610,0.072039974,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+645,5,F,Phenylalanine,20.12498844,0.096115829,870607,0.035949872,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+646,6,G,Glycine,36.50869163,0.194429405,1579366,0.065216574,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+647,7,H,Histidine,14.61648174,0.071939055,632309,0.026109861,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+648,8,I,Isoleucine,24.54401294,0.14631322,1061774,0.043843708,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+649,9,K,Lysine,32.7172908,0.198946612,1415350,0.05844388,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+650,10,L,Leucine,54.69863615,0.262738902,2366263,0.097709818,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+651,11,M,Methionine,12.2306981,0.057721808,529100,0.021848064,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+652,12,N,Asparagine,20.43608414,0.112876049,884065,0.036505592,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+653,13,P,Proline,35.14445215,0.205131833,1520349,0.062779592,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+654,14,Q,Glutamine,26.82632917,0.144155158,1160507,0.047920678,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+655,15,R,Arginine,31.84847434,0.157571276,1377765,0.056891887,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+656,16,S,Serine,46.73393435,0.259079883,2021710,0.083482232,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+657,17,T,Threonine,29.97605178,0.189832868,1296764,0.053547123,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+658,18,V,Valine,33.46562644,0.196211972,1447723,0.059780655,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+659,19,W,Tryptophan,6.575450763,0.038005566,284454,0.011745925,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+660,20,Y,Tyrosine,14.79301896,0.077759736,639946,0.026425215,Theropithecus gelada,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+661,1,A,Alanine,46.36977332,0.230114869,2329942,0.070418924,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+662,2,C,Cysteine,14.05709794,0.08024465,706327,0.02134765,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+663,3,D,Aspartic Acid,31.77065297,0.168598539,1596380,0.048248138,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+664,4,E,Glutamic Acid,48.29627639,0.264615937,2426743,0.073344586,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+665,5,F,Phenylalanine,22.4191096,0.097718146,1126493,0.034046524,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+666,6,G,Glycine,42.55686907,0.204710562,2138355,0.064628501,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+667,7,H,Histidine,17.33665691,0.083889452,871115,0.026328115,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+668,8,I,Isoleucine,27.58815452,0.143056769,1386222,0.041896434,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+669,9,K,Lysine,38.4474297,0.22287866,1931868,0.058387748,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+670,10,L,Leucine,64.3034211,0.304281459,3231054,0.097653653,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+671,11,M,Methionine,13.88263976,0.065586062,697561,0.021082712,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+672,12,N,Asparagine,23.36234999,0.11973702,1173888,0.035478965,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+673,13,P,Proline,42.54821183,0.216616958,2137920,0.064615354,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+674,14,Q,Glutamine,32.69590224,0.177175289,1642871,0.049653257,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+675,15,R,Arginine,37.9739885,0.173397522,1908079,0.057668762,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+676,16,S,Serine,56.51535415,0.286915555,2839727,0.085826394,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+677,17,T,Threonine,35.2869425,0.192742311,1773063,0.05358811,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+678,18,V,Valine,38.76179672,0.201943295,1947664,0.058865158,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+679,19,W,Tryptophan,7.682448703,0.04090853,386020,0.011666863,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
+680,20,Y,Tyrosine,16.62947042,0.089175185,835581,0.025254154,Trachypithecus francoisi,Cercopithecidae,Primates,Mammalia,Chordata,Metazoa,Eukaryota
